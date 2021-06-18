@@ -1,0 +1,698 @@
+Filipinas colonial
+
+Filipinas colonial test 1 15.4.21
+
+1.	EJÉRCITO: Militares (7 tópicos)  + Mindanao-Jol  (5 tópicos) + Marina (4 tópicos) 
+2.	HISTORIA COLONIAL: 	Historia colonial ( 8 tópicos)
+3.	IGLESIA Y ORDENES: Religiosos (7 tópicos) + educación (4 tópicos).
+4.	PRODUCCION DE SABER: Geografía (6 tópicos) + Navegación y geografía marina (6 tópicos)
+5.	VIAJES: Navegación y geografía marina (6 tópicos) + exploración (3 tópicos) 
+6.	POLÍTICA COLONIAL: Administración (2 tópicos) + Rizal (1 tópico)  + Educación (4 tópicos)
+7.	ECONOMÍA COLONIAL: Agricultura (2 tópicos) + Dinero  (2 tópicos) + Producción (2 tópicos) + comercio (1 tópico)  
+8.	ESPAÑA: España y los españoles (6 tópicos)
+9.	PRODUCCION LITERARIA: Retana (2 tópicos), Autores españoles (1 tópico)  + novela folletinesca (2 tópicos)
+10.	CRISIS IMPERIAL: Cuba (1 tópico)  + Rizal (1 tópico)  
+
+Segundo etiquetados: ideas generales
+
+•	Historia colonial: 0, 1, 2, 5, 10, 14, 23, 25,
+•	Administración: 1, 2, 9, 37
+•	Educación: 1, 7, 34, 38
+•	Conocimiento del español: 38
+•	Religiosos: 1, 16, 21, 24, 29, 31, 34
+•	Autores españoles: 2
+•	Retana: 2, 16
+•	Navegación: 4, 8, 19, 22, 27, 36
+•	Exploración: 7, 10, 15
+•	Marina: 4, 8, 9, 10
+•	Distancia (gramatical): 2, 5, 6, 12, 23
+•	Indios: 2, 5, 18
+•	España y los españoles: 5, 23, 31, 32, 39
+•	Militares: 6, 8, 9, 10, 20, 25, 37
+•	Mindanao-Joló: 8, 9, 20, 25, 39
+•	Agricultura: 11, 35
+•	Producción: 11, 21
+•	Cuba: 12
+•	Españoles: 12
+•	Comercio: 22
+•	Tiempo (gramatical): 13, 28, 38,
+•	Geografía: 15, 20, 27, 32, 35, 36
+•	Dinero. 17, 22
+•	Chinos: 23
+•	Cuerpo: 24
+•	Rizal: 26
+•	Política: 29, 32
+•	Novela romántica: 30, 33
+
+
+Primer etiquetado: interpretación del LDA
+
+    "0": { Realeza, autoridades virreinales, pasado, enfrentamiento, iglesia
+    "1": {representantes de España, administración e instrucción coloniales…
+    "2": {posesión, distancio yo-ellos (indígenas, datos, administración indígena entre el yo y el otro…), virreinato. 
+    "3": { Chápuli Navarro, Antonio y sus siluetas; López Retana ¿discusión? ¿Españoles hablando sobre filipinas citando Aristóteles? 
+    "4": {vocabulario marino, geografía marina…
+    "5": {contraste español-indio, distancia social y especial, también temporal, quizás más españoles ahora,, aumento de número…
+    "6": {Militar, campañas, contraste  unos-aquellos, apología, pocos frene a muchos…
+    "7": {exploración, viajes, educación..
+    "8": {militares, marina, campañas de Mindanao
+    "9": { militares, marina, campañas de Mindanao-Joló, justificaciones legales, administración…  
+    "10": {Historia colonial-virreinal, enfrentamientos con Holandeses por las Molucas.
+    "11": {producción agrícola, democracia, ¿posibilidades económicas de archipiélago?
+    "12": {Relación con Cuba, españoles y España, 98?
+    "13": {Paso del tiempo, comparación entre distintos momentos…
+    "14": {época virreinal, valoración, época pacifica…, comparación con el presente.. 
+    "15": {geografía, problemas de la colonización en relación con esta, viajes…
+    "16": {Retana, debates en torno al papel de las órdenes.. 
+    "17": {Dinero, ingresos, tributos, precios…
+    "18": {Especies de Filipinas, vinculación indios-animales (etnobotánica)
+    "19": {viajes, canal de Suez, vinculación Madrid-Filipinas vía Gibraltar y Suez
+    "20": { militares, marina, campañas de Mindanao-Joló, justificaciones legales, administración
+    "21": {haciendas, papel de las órdenes, propiedades de la Iglesia, iglesia
+    "22": {comercio de España con colonias asiáticas, comercio, demografía…
+    "23": {los Chinos, contraste con españoles, posesividad, relación con lo femenino
+    "24": {¿¿señor, padre, ojos, cabeza, cuerpo?
+    "25": { militares, marina, campañas de Mindanao-Joló, guerras, administración, los moros
+    "26": {Rizal, fusilamiento, administración de Despujol, guerra de independencia
+    "27": {viajes a ilocos y las marianas, viajes.
+    "28": { paso del tiempo…?¿? ¿descripción de especie y casas?
+    "29": { misioneros, autoridad de la iglesia (presentante de Europa… y España), lucha contra misioneros por la libertad, guerra de independencia…
+    "30": {¿folletín? ¿Novela romántica? 
+    "31": {misioneros, españoles, misioneros como representantes e España en Filipinas, ¿menor cantidad?
+
+    "32": {descripción de los nativos o los españoles, sus casas, etnología, relación con españoles… 
+    "33": {La filipina virtuosa, novela de Pacita…, novela romántica, folletinesca…
+    "34": {misioneros, enseñanza a los hijos de los nativos, monopolo de la verdad…
+    "35": {descripción de Luzón, producción agrícola, posibilidades económicas de la colonia…
+    "36": {geografía, viaje, descripción de paisaje acusatorio y costero…
+    "37": {administración colonial, ciudad, enemigos, ¿Baler?
+    "38": {enseñanza, conocimiento de la lengua, comparación con el pasado, ¿aumento del trabajo y de hablante de la lengua en nuevo siglo, XIX?
+    "39": {España en Filipinas, memorias, contraste con realidad, sultanato de sur..
+
+
+Extracto del archivo original del LDA, en JSON (reproducible en HathiTrust) 
+
+"40": {
+    "0": {
+      "color": "#1b9e77",
+      "words": {
+        "juan": 0.013522344641387463,
+        "puerto": 0.012861886993050575,
+        "iglesia": 0.012375233694911003,
+        "rey": 0.011401928029954433,
+        "real": 0.009211990982294083,
+        "capitan": 0.008968664333224297,
+        "habian": 0.008621054701507092,
+        "contra": 0.008447250351309776,
+        "obispo": 0.008203924633562565,
+        "cuanto": 0.007752032484859228
+      }
+    },
+    "1": {
+      "color": "#d76003",
+      "words": {
+        "estado": 0.00797578226774931,
+        "superior": 0.007874399423599243,
+        "españa": 0.007468868512660265,
+        "mis": 0.007333691697567701,
+        "instruccion": 0.006759190000593662,
+        "cion": 0.006150892935693264,
+        "administracion": 0.005914334207773209,
+        "escuelas": 0.00557639030739665,
+        "esos": 0.005373625550419092,
+        "religiosas": 0.005238447804003954
+      }
+    },
+    "2": {
+      "color": "#7570b3",
+      "words": {
+        "nuestra": 0.016077611595392227,
+        "nuestro": 0.012660019099712372,
+        "nosotros": 0.009242423810064793,
+        "allí": 0.009049884043633938,
+        "tal": 0.007750235497951508,
+        "nuestros": 0.0071244798600673676,
+        "aquellos": 0.006498722359538078,
+        "marcha": 0.0054878853261470795,
+        "datto": 0.0048621282912790775,
+        "mos": 0.004573317710310221
+      }
+    },
+    "3": {
+      "color": "#e62a8a",
+      "words": {
+        "navarro": 0.01356486789882183,
+        "chápuli": 0.01346728578209877,
+        "usted": 0.013174540363252163,
+        "matices": 0.012491466477513313,
+        "había": 0.012003556825220585,
+        "siluetas": 0.011125318706035614,
+        "indio": 0.0091736800968647,
+        "retana": 0.00829544197767973,
+        "aristóteles": 0.007222040090709925,
+        "lópez": 0.007222040090709925
+      }
+    },
+    "4": {
+      "color": "#67a61e",
+      "words": {
+        "punta": 0.02724609151482582,
+        "lat": 0.023316845297813416,
+        "unas": 0.0218487735837698,
+        "long": 0.01938759721815586,
+        "fondo": 0.01770363375544548,
+        "agua": 0.01636509969830513,
+        "vientos": 0.015933314338326454,
+        "cabo": 0.015242457389831543,
+        "bahía": 0.015069742687046528,
+        "sondas": 0.011831352487206459
+      }
+    },
+    "5": {
+      "color": "#e5ab02",
+      "words": {
+        "cuanto": 0.012486339546740055,
+        "español": 0.01043026801198721,
+        "dicho": 0.01039288379251957,
+        "sea": 0.00841157790273428,
+        "mal": 0.007626533042639494,
+        "esa": 0.007626532576978207,
+        "ese": 0.007551766000688076,
+        "hoy": 0.007439616601914167,
+        "indio": 0.006691954098641872,
+        "lugar": 0.006243356503546238
+      }
+    },
+    "6": {
+      "color": "#a5761e",
+      "words": {
+        "aquellos": 0.00907405186444521,
+        "guerra": 0.007733176928013563,
+        "cuatro": 0.006741296034306288,
+        "dar": 0.006612719036638737,
+        "haber": 0.006447405554354191,
+        "entonces": 0.006226988509297371,
+        "hombres": 0.006153515074402094,
+        "grandes": 0.005988201592117548,
+        "frente": 0.005492262076586485,
+        "muchos": 0.005492261610925198
+      }
+    },
+    "7": {
+      "color": "#666666",
+      "words": {
+        "albay": 0.02097630500793457,
+        "viajes": 0.017678864300251007,
+        "rio": 0.011541959829628468,
+        "montes": 0.0078781358897686,
+        "nombre": 0.007145371288061142,
+        "agua": 0.005954630207270384,
+        "aguas": 0.005679842084646225,
+        "candelario": 0.005405055359005928,
+        "monte": 0.005313459783792496,
+        "escuelas": 0.0048554823733866215
+      }
+    },
+    "8": {
+      "color": "#1b9e77",
+      "words": {
+        "buques": 0.011687716469168663,
+        "fuerte": 0.009396119974553585,
+        "sur": 0.00853677187114954,
+        "aun": 0.007734712213277817,
+        "punto": 0.007161813322454691,
+        "unos": 0.007104523479938507,
+        "capitan": 0.006531624123454094,
+        "algunas": 0.005844145081937313,
+        "costas": 0.005672275088727474,
+        "valor": 0.005213955417275429
+      }
+    },
+    "9": {
+      "color": "#d76003",
+      "words": {
+        "art": 0.012267788872122765,
+        "joló": 0.011917292140424252,
+        "aquí": 0.011411018669605255,
+        "escosura": 0.009230147115886211,
+        "leyes": 0.007516605779528618,
+        "consejo": 0.007049276493489742,
+        "punto": 0.006971388123929501,
+        "superior": 0.006737723480910063,
+        "gobernador": 0.006659834645688534,
+        "derecho": 0.006075673270970583
+      }
+    },
+    "10": {
+      "color": "#7570b3",
+      "words": {
+        "españoles": 0.03173358365893364,
+        "holandeses": 0.02132934331893921,
+        "había": 0.01131526194512844,
+        "habían": 0.01131526194512844,
+        "gobernador": 0.008909283205866814,
+        "molucas": 0.008389069698750973,
+        "guerra": 0.007738804444670677,
+        "embarcaciones": 0.0073486450128257275,
+        "escuadra": 0.007153565529733896,
+        "entonces": 0.006763407029211521
+      }
+    },
+    "11": {
+      "color": "#e62a8a",
+      "words": {
+        "habitantes": 0.007711612153798342,
+        "país": 0.006457223556935787,
+        "productos": 0.006087075918912888,
+        "cultivo": 0.005860874895006418,
+        "fin": 0.005285089835524559,
+        "debe": 0.005100016016513109,
+        "archipiélago": 0.004688740707933903,
+        "arroz": 0.004585922230035067,
+        "clase": 0.004565358627587557,
+        "demás": 0.00454479455947876
+      }
+    },
+    "12": {
+      "color": "#67a61e",
+      "words": {
+        "fue": 0.02306070551276207,
+        "cuba": 0.014978465624153614,
+        "alli": 0.014385273680090904,
+        "asi": 0.014311125501990318,
+        "rico": 0.010937346145510674,
+        "espafioles": 0.010010483674705029,
+        "espafia": 0.0096397390589118,
+        "fin": 0.009306068532168865,
+        "gente": 0.009120696224272251,
+        "habana": 0.008935323916375637
+      }
+    },
+    "13": {
+      "color": "#e5ab02",
+      "words": {
+        "había": 0.01670661009848118,
+        "después": 0.015705281868577003,
+        "también": 0.012332392856478691,
+        "unos": 0.011462819762527943,
+        "allí": 0.007905474863946438,
+        "habían": 0.006666991394013166,
+        "algún": 0.006640641018748283,
+        "eran": 0.006245380267500877,
+        "primera": 0.005850119516253471,
+        "ción": 0.005560262594372034
+      }
+    },
+    "14": {
+      "color": "#a5761e",
+      "words": {
+        "paz": 0.007080592680722475,
+        "aun": 0.007015636190772057,
+        "real": 0.006755809765309095,
+        "ley": 0.006755809765309095,
+        "nuestro": 0.0067233312875032425,
+        "hoy": 0.005911373998969793,
+        "viaje": 0.005781461019068956,
+        "siendo": 0.00532676512375474,
+        "personas": 0.005099416710436344,
+        "des": 0.0047746337950229645
+      }
+    },
+    "15": {
+      "color": "#666666",
+      "words": {
+        "río": 0.007411119993776083,
+        "también": 0.006321313790977001,
+        "colonización": 0.006146944593638182,
+        "terreno": 0.005972575396299362,
+        "planta": 0.00579820666462183,
+        "millas": 0.005187915172427893,
+        "dirección": 0.005144322756677866,
+        "punta": 0.005013545975089073,
+        "después": 0.0049699535593390465,
+        "aguas": 0.0049699521623551846
+      }
+    },
+    "16": {
+      "color": "#1b9e77",
+      "words": {
+        "pais": 0.011579696089029312,
+        "dia": 0.011579696089029312,
+        "taquia": 0.009905624203383923,
+        "berta": 0.009556859731674194,
+        "frailes": 0.008929082192480564,
+        "leonardo": 0.008650070056319237,
+        "indio": 0.00781303457915783,
+        "retana": 0.007813033647835255,
+        "mis": 0.007673528511077166,
+        "asi": 0.007534022442996502
+      }
+    },
+    "17": {
+      "color": "#d76003",
+      "words": {
+        "pesos": 0.02611720748245716,
+        "tierras": 0.010370531119406223,
+        "total": 0.008296579122543335,
+        "ingresos": 0.008142951875925064,
+        "impuesto": 0.007835700176656246,
+        "terrenos": 0.007374821696430445,
+        "propiedad": 0.00652987789362669,
+        "tributo": 0.00652987789362669,
+        "hectáreas": 0.006376252043992281,
+        "precio": 0.005838560406118631
+      }
+    },
+    "18": {
+      "color": "#7570b3",
+      "words": {
+        "sólo": 0.007427022326737642,
+        "país": 0.007150681223720312,
+        "especie": 0.005976229906082153,
+        "hemos": 0.005872601643204689,
+        "muchos": 0.0055617173202335835,
+        "indio": 0.005527178291231394,
+        "archipiélago": 0.0054926322773098946,
+        "idem": 0.0053544617258012295,
+        "muchas": 0.005319918971508741,
+        "jefe": 0.005216290708631277
+      }
+    },
+    "19": {
+      "color": "#e62a8a",
+      "words": {
+        "punto": 0.01389642246067524,
+        "viage": 0.012452732771635056,
+        "vapor": 0.010648119263350964,
+        "dia": 0.008753275498747826,
+        "puntos": 0.008392353542149067,
+        "respecto": 0.007309585809707642,
+        "diario": 0.007219354156404734,
+        "suez": 0.006587739568203688,
+        "gibraltar": 0.006587739568203688,
+        "madrid": 0.006497508846223354
+      }
+    },
+    "20": {
+      "color": "#67a61e",
+      "words": {
+        "nombre": 0.011633770540356636,
+        "mindanao": 0.009003641083836555,
+        "ejército": 0.008953061886131763,
+        "kilómetros": 0.008396688848733902,
+        "población": 0.008346108719706535,
+        "sólo": 0.007840314880013466,
+        "colonias": 0.007536838296800852,
+        "distrito": 0.006778147537261248,
+        "mindoro": 0.006322932429611683,
+        "además": 0.005867719650268555
+      }
+    },
+    "21": {
+      "color": "#e5ab02",
+      "words": {
+        "sólo": 0.015158036723732948,
+        "hacen": 0.009427675977349281,
+        "naturales": 0.006901387590914965,
+        "pesos": 0.0066549209877848625,
+        "iglesia": 0.006439262069761753,
+        "muchos": 0.006223603617399931,
+        "montes": 0.005761477630585432,
+        "hacienda": 0.005761477630585432,
+        "ahora": 0.005022075958549976,
+        "arroz": 0.004806417506188154
+      }
+    },
+    "22": {
+      "color": "#a5761e",
+      "words": {
+        "españa": 0.013786406256258488,
+        "comercio": 0.01143841352313757,
+        "pesos": 0.01113652903586626,
+        "año": 0.009996075183153152,
+        "también": 0.008754993788897991,
+        "buques": 0.006843056995421648,
+        "sólo": 0.006105116568505764,
+        "carolinas": 0.005970945581793785,
+        "población": 0.005669060628861189,
+        "día": 0.0056355176493525505
+      }
+    },
+    "23": {
+      "color": "#666666",
+      "words": {
+        "allí": 0.006650425028055906,
+        "chinos": 0.0059115164913237095,
+        "españoles": 0.0049263047985732555,
+        "éste": 0.004704631865024567,
+        "dicho": 0.004581481218338013,
+        "ésta": 0.004138135351240635,
+        "muchos": 0.004113505128771067,
+        "historia": 0.003990353550761938,
+        "nuestros": 0.003941093105822802,
+        "mujer": 0.0037686810828745365
+      }
+    },
+    "24": {
+      "color": "#1b9e77",
+      "words": {
+        "señor": 0.01105834636837244,
+        "estaba": 0.006496477406471968,
+        "hombre": 0.006048952229321003,
+        "nada": 0.006005642935633659,
+        "padre": 0.005745789967477322,
+        "ojos": 0.005688044708222151,
+        "eso": 0.005485936533659697,
+        "qué": 0.0053848824463784695,
+        "quien": 0.005327137187123299,
+        "cabeza": 0.00519721070304513
+      }
+    },
+    "25": {
+      "color": "#d76003",
+      "words": {
+        "pág": 0.01865621842443943,
+        "joló": 0.017629031091928482,
+        "moros": 0.011743525974452496,
+        "sultan": 0.01149366982281208,
+        "gobernador": 0.008689725771546364,
+        "zamboanga": 0.008245537057518959,
+        "mindanao": 0.007967919111251831,
+        "guerras": 0.0068574463948607445,
+        "rey": 0.006496543530374765,
+        "piráticas": 0.006218924652785063
+      }
+    },
+    "26": {
+      "color": "#7570b3",
+      "words": {
+        "santa": 0.010194534435868263,
+        "byn": 0.00905343983322382,
+        "contra": 0.007608055602759123,
+        "dice": 0.006923397537320852,
+        "despujol": 0.006923397537320852,
+        "civil": 0.0066951788030564785,
+        "rizal": 0.00661910604685545,
+        "labr": 0.006466960068792105,
+        "autoridad": 0.006390887312591076,
+        "escrito": 0.006390887312591076
+      }
+    },
+    "27": {
+      "color": "#e62a8a",
+      "words": {
+        "vida": 0.005549832712858915,
+        "marianas": 0.0054356432519853115,
+        "cuales": 0.004659155383706093,
+        "aquellas": 0.004316587466746569,
+        "nueva": 0.004133885260671377,
+        "hoy": 0.003722804132848978,
+        "viajes": 0.0036771269515156746,
+        "ilocos": 0.0036771269515156746,
+        "habitantes": 0.0036086132749915123,
+        "padre": 0.0036086132749915123
+      }
+    },
+    "28": {
+      "color": "#67a61e",
+      "words": {
+        "nombre": 0.00960317812860012,
+        "dia": 0.00953664444386959,
+        "des": 0.00789549294859171,
+        "dias": 0.0077180708758533,
+        "siguiente": 0.0068309614434838295,
+        "algo": 0.005810786038637161,
+        "cinco": 0.005345053970813751,
+        "tal": 0.005345053970813751,
+        "especie": 0.005234165582805872,
+        "casas": 0.004879320971667767
+      }
+    },
+    "29": {
+      "color": "#e5ab02",
+      "words": {
+        "nuestra": 0.010690972208976746,
+        "libertad": 0.009118827991187572,
+        "debe": 0.0077432021498680115,
+        "fuerza": 0.00703573739156127,
+        "nuestros": 0.006328272633254528,
+        "sido": 0.006053147371858358,
+        "misioneros": 0.005856629461050034,
+        "razon": 0.005463593639433384,
+        "autoridad": 0.005384986288845539,
+        "europa": 0.005267075728625059
+      }
+    },
+    "30": {
+      "color": "#a5761e",
+      "words": {
+        "dijo": 0.012087836861610413,
+        "ambrosio": 0.009484370239078999,
+        "liriohermoso": 0.009019465185701847,
+        "mis": 0.00877151545137167,
+        "marqués": 0.008213629946112633,
+        "corazon": 0.007345807272940874,
+        "marquesa": 0.007283820305019617,
+        "ismael": 0.006725934334099293,
+        "muger": 0.006663946900516748,
+        "has": 0.006261029280722141
+      }
+    },
+    "31": {
+      "color": "#666666",
+      "words": {
+        "país": 0.021645240485668182,
+        "allí": 0.01565612107515335,
+        "frailes": 0.014920614659786224,
+        "españa": 0.014045012183487415,
+        "españoles": 0.010262410156428814,
+        "aquí": 0.008301060646772385,
+        "ménos": 0.007950820028781891,
+        "qué": 0.007075217552483082,
+        "padre": 0.006619904190301895,
+        "nada": 0.006584881339222193
+      }
+    },
+    "32": {
+      "color": "#1b9e77",
+      "words": {
+        "estadismo": 0.012916055507957935,
+        "río": 0.011857397854328156,
+        "tienen": 0.011518626473844051,
+        "agua": 0.01037527620792389,
+        "están": 0.009020193479955196,
+        "muchas": 0.008681422099471092,
+        "casas": 0.008639075793325901,
+        "bastante": 0.008046227507293224,
+        "laguna": 0.00791918858885765,
+        "españoles": 0.00779214920476079
+      }
+    },
+    "33": {
+      "color": "#d76003",
+      "words": {
+        "usted": 0.024415498599410057,
+        "pietro": 0.022791443392634392,
+        "había": 0.020734308287501335,
+        "pacita": 0.017865143716335297,
+        "lina": 0.016565900295972824,
+        "carlotti": 0.013101250864565372,
+        "día": 0.012668169103562832,
+        "filipina": 0.012343358248472214,
+        "virtuosa": 0.010881708934903145,
+        "madre": 0.010286222212016582
+      }
+    },
+    "34": {
+      "color": "#7570b3",
+      "words": {
+        "señor": 0.012734518386423588,
+        "verdad": 0.006544866133481264,
+        "decir": 0.005992922931909561,
+        "mis": 0.0058746496215462685,
+        "nuestra": 0.005007310304790735,
+        "hijos": 0.004967885557562113,
+        "cosas": 0.004691913723945618,
+        "libro": 0.004573640413582325,
+        "cosa": 0.004455366637557745,
+        "fraile": 0.00441594235599041
+      }
+    },
+    "35": {
+      "color": "#e62a8a",
+      "words": {
+        "año": 0.008815031498670578,
+        "luzon": 0.007351215463131666,
+        "segun": 0.0067147742956876755,
+        "casi": 0.00585557846352458,
+        "tabaco": 0.005601002834737301,
+        "total": 0.005601001903414726,
+        "clase": 0.005601000972092152,
+        "rios": 0.005410069599747658,
+        "terreno": 0.0053146034479141235,
+        "cuatro": 0.0052827806212008
+      }
+    },
+    "36": {
+      "color": "#67a61e",
+      "words": {
+        "punta": 0.020340731367468834,
+        "cerca": 0.014241606928408146,
+        "distancia": 0.013430393300950527,
+        "bajo": 0.012318729422986507,
+        "debe": 0.012138459831476212,
+        "halla": 0.010035313665866852,
+        "algunas": 0.009494504891335964,
+        "casi": 0.009073874913156033,
+        "arrecife": 0.008893605321645737,
+        "entrada": 0.00874338112771511
+      }
+    },
+    "37": {
+      "color": "#e5ab02",
+      "words": {
+        "sdlo": 0.014496946707367897,
+        "demas": 0.012375515885651112,
+        "ciudad": 0.011567352339625359,
+        "gobernador": 0.011011739261448383,
+        "buques": 0.010910718701779842,
+        "plaza": 0.01070867758244276,
+        "afios": 0.008940819650888443,
+        "enemigo": 0.00868826825171709,
+        "antes": 0.00853673741221428,
+        "misma": 0.006970919668674469
+      }
+    },
+    "38": {
+      "color": "#a5761e",
+      "words": {
+        "hoy": 0.00970103032886982,
+        "nosotros": 0.007748871110379696,
+        "casi": 0.007448538672178984,
+        "hemos": 0.005196047481149435,
+        "tal": 0.004745549988001585,
+        "trabajo": 0.0047155157662928104,
+        "dice": 0.0044452170841395855,
+        "ahora": 0.00438515143468976,
+        "castellano": 0.0042049516923725605,
+        "siglo": 0.004204951226711273
+      }
+    },
+    "39": {
+      "color": "#666666",
+      "words": {
+        "memoria": 0.013978266157209873,
+        "archipiélago": 0.010549727827310562,
+        "españa": 0.010135289281606674,
+        "nuestra": 0.007573303300887346,
+        "sólo": 0.007535628974437714,
+        "nuestro": 0.007234217133373022,
+        "país": 0.007158864755183458,
+        "real": 0.006556044332683086,
+        "caso": 0.005764843430370092,
+        "sultán": 0.0056518143974244595
+      }
+    }
+  },
+
+
