@@ -1,0 +1,699 @@
+ Decimonónico Guinea test 1 15.4.21
+ 
+ Etiquetado final  “architópicos”:
+
+1.	MISIONEROS: Misioneros (6 tópicos) 
+2.	POLÍTICA COLONIAL: Educación (2 tópicos) +  Administración (2 tópicos) + Colonia penal (4 tópicos) + Costes colonización (3 tópicos)
+3.	HISTORIA IMPERIAL: Expediciones + Historia colonial - Colonia penal (4 tópicos) - Costes colonización (3 tópicos)
+4.	INFLUENCIA INGLESA EN LA COLONIA: Ingleses (8 tópicos) + Fernandinos (3 tópicos)
+5.	CUBA: Colonia penal (4 tópicos)-Cubanos + Esclavos (1 tópico) + Antillas (1 tópico) 
+6.	COLONIZADOS: Negros (2 tópicos) + Indígenas (2 tópicos)
+7.	EJÉRCITO:  Rangos militares (3 tópicos) + Guerra ( 1 tópico) +  Marina (3 tópicos)
+8.	PRODUCCION CONOCIMIENTO: Gramáticas bantúes (3 tópicos)
+9.	PRESENCIA ESPAÑOLA: Españoles ( 4 tópicos). 
+10.	LITERATURA: Viajes-Donacuige (3 tópicos) + Novela (1 tópico).
+
+
+Segundo etiquetados: ideas generales
+
+•	Expediciones: 0, 2, 10, 22, 28, 30
+•	Misioneros: 1, 6, 7, 19, 20, 33
+•	Historia colonial: 0, 2 , 8, 12, 15, 17, 22, 26
+•	Ingleses: 15, 17, 20, 21, 23, 26, 31, 33
+•	Educación: 7, 16
+•	Negros:  2, 15
+•	Rangos militares:  2,  30, 38
+•	Guerra: 19
+•	Españoles: 30, 33, 37, 38
+•	Colonia penal: 9, 11, 37, 38
+•	Gramáticas bantúes: 13, 18, 25, 39
+•	naturaleza colonial: 14,  34
+•	Esclavitud: 17
+•	Cubanos: 37
+•	Geografía y descripción del territorio: 2
+•	Administración: 3, 23
+•	Donacuige: 4
+•	Viajes: 4, 29, 32
+•	Novela: 27
+•	Marina: 4, 5, 10
+•	Papua Nueva Guinea: 32
+•	Enfermedad: 5
+•	Costes colonización: 8, 12, 16
+•	Republica: 38
+•	Fernandinos: 23, 27, 31
+•	Antillas: 16
+•	Medicina: 21
+•	mujeres: 34
+•	Encuentro con los indígenas: 35
+•	Necesidad: 36.
+•	Indígenas: 1,35
+
+Primer etiquetado: interpretación del LDA
+
+    "0": {órdenes, instrucciones , expedición?…
+    "1": {misiones, descripción del masado, misioneros, espacios de los misioneros
+    "2": {geografía, guinea ecuatorial, otredad, ellos, vs. Negros, expediciones… ¿inicios de la colonización?, militares, islas)
+    "3": {administración colonial, autoridades, política…
+    "4": {viajes, aventuras, militares, marina, libro de Donacuige sobre su viaje a Fernando Poo, novela de viajes
+    "5": {Marina, fiebre, estancia, enfermedad, 
+    "6": {religión, evangelización de esa tierra… ¿?
+    "7": {Misioneros Misiones, educación, concepcionistas, educación y misioneros (colegio concepcionista, misiones claretianas…)
+    "8": {Problemas de la colonización, gastos enormes, leyes de ultramar y su reacción,  
+    "9": {deportación, estilos de colonización, colonia penal (como Australia)
+    "10": {expediciones, viaje a la colonia (vía buques de vapor), obstáculos a la colonización (y la emigración)?
+    "11": {libertad, añoranza de la patria, ¿luchadores por la libertad de su patria, revolucionarios? ¿??¿?
+    "12": {Madrid, provincias, leyes, costes, ?¿?
+    "13": {gramática bantú, ciencia colonial
+    "14": {naturaleza colonial, voluptuosidad de esta…
+    "15": {inicios de la colonización, historia colonización, corisco e integración de os negros vía comercio del aceite de palma, civilización, problema de los ingleses… 
+    "16": {costes de la colonización, servicios, enseñanza, comercio, costes, relación con las Antillas…
+    "17": {historia colonial, comercio de esclavos, papel de los ingleses, inicio de la colonización
+    "18": {gramática bantú, ciencia colonial
+    "19": {conversión, guerra, naturaleza calmada tras colonización, ¿beneficios de la evangelización?
+    "20": {Inicios colonización, debates, obstáculo del comercio y misioneros ingleses, historia colonial…
+    "21": {¿? Medicina colonial, novelas, personajes anglófonos, médicos ingleses?..
+    "22": {Historia colonial, expediciones (Chacón) y leyes fundamentales de la colonia
+    "23": { Inicios colonización, debates, obstáculo del comercio y misioneros ingleses, origen anglosajón de los fernandinos, importancia de esta comunidad… historia colonial…
+    "24": {política, administración, 
+    "25": {gramática bantú, fonética, semántica.
+    "26": { Inicios colonización, debates, obstáculo del comercio y misioneros ingleses, historia colonial…, fundación de Mala babo…
+    "27": {Novela, relación entre hombres y mujeres, presencia del miss, influencia británica, novelización sociedad fernandina…
+    "28": {Expedición de comisario regio Guillemard, historia de la colonizaciones, centralidad de las islas 
+    "29": {lo desconocido, aventuras, naturaleza, viaje ?
+    "30": {historia colonial, expediciones, primeros españoles en la colonia (militares), precariedad de la situación colonial.
+    "31": Inicios colonización, debates, obstáculo del comercio y misioneros ingleses, historia colonial…, valoración negativa, “efectos” de su presencia… (en la sociedad nativa…)
+    "32": {papua nueva guinea?¿?
+    "33": { Inicios colonización, debates, obstáculo del comercio y misioneros ingleses, historia colonial…, papel de la misión y el catolicismo, media conflicto españoles-ingleses..
+    "34": {expediciones, militares, naturaleza colonial, mujeres… ¿naturaleza porno tropical?, centralidad de la costa…
+    "35": { Inicios colonización, expediciones, historia colonial… primeros contactos con los nativos, sentados en la costa..
+    "36": {¿necesidad? ¿hacer falta?
+    "37": {colonia penal, historia colonial, distancia (entre españoles y cubanos/nativos?¿comercio, vida de cubanos y españoles?)
+    "38": {primera republicana, intentos de colonización contemporáneos, muerte de españoles, expediciones, escasa presencia española…
+    "39": {gramática del bantú, tiempos verbales, clases de nombres
+
+
+Extracto del archivo original del LDA, en JSON (reproducible en HuthiTrust) 
+"40": {
+    "0": {
+      "color": "#1b9e77",
+      "words": {
+        "después": 0.017910534515976906,
+        "ción": 0.013705635443329811,
+        "orden": 0.01074663270264864,
+        "instrucción": 0.010123685002326965,
+        "atención": 0.009578604251146317,
+        "superior": 0.008955656550824642,
+        "demás": 0.008877788670361042,
+        "necesidad": 0.008410576730966568,
+        "vida": 0.008332708850502968,
+        "sería": 0.008099102415144444
+      }
+    },
+    "1": {
+      "color": "#d76003",
+      "words": {
+        "también": 0.016576258465647697,
+        "padres": 0.015988489612936974,
+        "misión": 0.01504805963486433,
+        "según": 0.014695398509502411,
+        "indígenas": 0.014342737384140491,
+        "padre": 0.010345907881855965,
+        "pueblo": 0.00975813902914524,
+        "después": 0.009523031301796436,
+        "terreno": 0.008700154721736908,
+        "había": 0.007171955890953541
+      }
+    },
+    "2": {
+      "color": "#7570b3",
+      "words": {
+        "negros": 0.0294085331261158,
+        "isabel": 0.022646505385637283,
+        "dias": 0.02186022326350212,
+        "islas": 0.015569962561130524,
+        "ellas": 0.014940937049686909,
+        "annobon": 0.0108522679656744,
+        "corisco": 0.009751474484801292,
+        "comandante": 0.008493421599268913,
+        "misma": 0.008493421599268913,
+        "hacen": 0.008493421599268913
+      }
+    },
+    "3": {
+      "color": "#e62a8a",
+      "words": {
+        "propio": 0.011440103873610497,
+        "consejo": 0.010020632296800613,
+        "cuenta": 0.009686639532446861,
+        "autoridad": 0.008517662063241005,
+        "orden": 0.008016672916710377,
+        "julio": 0.006680699530988932,
+        "especial": 0.00643020449206233,
+        "oficiales": 0.006346706300973892,
+        "entonces": 0.006179709918797016,
+        "importancia": 0.005929215345531702
+      }
+    },
+    "4": {
+      "color": "#67a61e",
+      "words": {
+        "aventuras": 0.032519832253456116,
+        "piloto": 0.03224191069602966,
+        "había": 0.028906825929880142,
+        "usted": 0.023626279085874557,
+        "dijo": 0.014732726849615574,
+        "día": 0.01417688000947237,
+        "qué": 0.01417688000947237,
+        "ménos": 0.0111197205260396,
+        "capitán": 0.0111197205260396,
+        "buque": 0.0111197205260396
+      }
+    },
+    "5": {
+      "color": "#e5ab02",
+      "words": {
+        "fiebre": 0.011860991828143597,
+        "seis": 0.009489109739661217,
+        "dió": 0.008698482997715473,
+        "capitan": 0.008698482997715473,
+        "tienen": 0.008224106393754482,
+        "meses": 0.007591604255139828,
+        "poblacion": 0.007117227651178837,
+        "estacion": 0.0069591025821864605,
+        "ocho": 0.006642851512879133,
+        "buques": 0.006642851512879133
+      }
+    },
+    "6": {
+      "color": "#a5761e",
+      "words": {
+        "aunque": 0.012211969122290611,
+        "tierra": 0.009786470793187618,
+        "luego": 0.009284643456339836,
+        "dios": 0.009284643456339836,
+        "mejor": 0.008615540340542793,
+        "san": 0.008280988782644272,
+        "tener": 0.008197350427508354,
+        "fin": 0.008113713003695011,
+        "veces": 0.007528247777372599,
+        "muchos": 0.007528247311711311
+      }
+    },
+    "7": {
+      "color": "#666666",
+      "words": {
+        "misioneros": 0.03586374223232269,
+        "isabel": 0.026484712958335876,
+        "misiones": 0.02234690822660923,
+        "ste": 0.020967639982700348,
+        "san": 0.01710568740963936,
+        "colegio": 0.014898858033120632,
+        "misión": 0.0146230049431324,
+        "niños": 0.014347150921821594,
+        "concepción": 0.012967882677912712,
+        "hijos": 0.011864467523992062
+      }
+    },
+    "8": {
+      "color": "#1b9e77",
+      "words": {
+        "gastos": 0.01114016491919756,
+        "leyes": 0.010639511048793793,
+        "respecto": 0.009325296618044376,
+        "colonias": 0.009325296618044376,
+        "ultramar": 0.00882464274764061,
+        "pública": 0.007823335938155651,
+        "política": 0.007698172703385353,
+        "cortes": 0.007635590620338917,
+        "estados": 0.007009773515164852,
+        "millones": 0.006884610280394554
+      }
+    },
+    "9": {
+      "color": "#d76003",
+      "words": {
+        "deportados": 0.027042614296078682,
+        "deportacion": 0.026532424613833427,
+        "pena": 0.0234712865203619,
+        "colonias": 0.021175431087613106,
+        "penados": 0.017604101449251175,
+        "colonia": 0.01632862724363804,
+        "nueva": 0.01607353240251541,
+        "penal": 0.014032772742211819,
+        "sólo": 0.012757298536598682,
+        "australia": 0.011736918240785599
+      }
+    },
+    "10": {
+      "color": "#7570b3",
+      "words": {
+        "personas": 0.010673549957573414,
+        "colonia": 0.010130858048796654,
+        "buques": 0.010130858048796654,
+        "vapor": 0.009045473299920559,
+        "rio": 0.008924875408411026,
+        "san": 0.008321884088218212,
+        "habitantes": 0.008321884088218212,
+        "expedicion": 0.007477696053683758,
+        "luego": 0.007477696053683758,
+        "nombre": 0.00693500554189086
+      }
+    },
+    "11": {
+      "color": "#e62a8a",
+      "words": {
+        "estaba": 0.021786803379654884,
+        "dias": 0.021189985796809196,
+        "libertad": 0.020891577005386353,
+        "hombre": 0.01999635249376297,
+        "asi": 0.019697943702340126,
+        "pais": 0.01790749281644821,
+        "ciudad": 0.016713859513401985,
+        "estaban": 0.016117041930556297,
+        "patria": 0.015818633139133453,
+        "hombres": 0.015520225279033184
+      }
+    },
+    "12": {
+      "color": "#67a61e",
+      "words": {
+        "art": 0.03567547723650932,
+        "pesetas": 0.023356331512331963,
+        "decreto": 0.0200198944658041,
+        "real": 0.012448755092918873,
+        "derechos": 0.011678808368742466,
+        "madrid": 0.009625616483390331,
+        "civil": 0.008855669759213924,
+        "derecho": 0.008599021472036839,
+        "provincias": 0.007444100920110941,
+        "tomo": 0.007315776310861111
+      }
+    },
+    "13": {
+      "color": "#e5ab02",
+      "words": {
+        "dii": 0.03332444652915001,
+        "jaka": 0.028375761583447456,
+        "gongó": 0.025406550616025925,
+        "imperfecto": 0.024086901918053627,
+        "diyandi": 0.021117689087986946,
+        "diyate": 0.015179268084466457,
+        "también": 0.015179268084466457,
+        "viya": 0.014519442804157734,
+        "simple": 0.014519442804157734,
+        "vomudē": 0.014189531095325947
+      }
+    },
+    "14": {
+      "color": "#a5761e",
+      "words": {
+        "qué": 0.01134839653968811,
+        "noche": 0.009700118564069271,
+        "fin": 0.008939373306930065,
+        "cuanto": 0.008875979110598564,
+        "aguas": 0.008749188855290413,
+        "hubiera": 0.008178630843758583,
+        "entonces": 0.007227701134979725,
+        "bosque": 0.007100910414010286,
+        "eso": 0.007100909948348999,
+        "hacia": 0.006910724565386772
+      }
+    },
+    "15": {
+      "color": "#666666",
+      "words": {
+        "negros": 0.03034721314907074,
+        "corisco": 0.014901951886713505,
+        "aceite": 0.014175116084516048,
+        "cion": 0.012176317162811756,
+        "palma": 0.0114494813606143,
+        "colonizacion": 0.010904354974627495,
+        "civilizacion": 0.010904354974627495,
+        "inglés": 0.009814102202653885,
+        "posesion": 0.00981410127133131,
+        "rio": 0.009632391855120659
+      }
+    },
+    "16": {
+      "color": "#1b9e77",
+      "words": {
+        "presupuesto": 0.017527233809232712,
+        "puerto": 0.014719963073730469,
+        "ahora": 0.012823158875107765,
+        "rico": 0.012823158875107765,
+        "carácter": 0.012292053550481796,
+        "enseñanza": 0.011912692338228226,
+        "escuelas": 0.011457459069788456,
+        "derecho": 0.01062286552041769,
+        "pesos": 0.01024350430816412,
+        "antillas": 0.009864144027233124
+      }
+    },
+    "17": {
+      "color": "#d76003",
+      "words": {
+        "dar": 0.011310975067317486,
+        "clase": 0.009985571727156639,
+        "objeto": 0.009543770924210548,
+        "esclavos": 0.008483449928462505,
+        "necesario": 0.007158048916608095,
+        "tenia": 0.006892968900501728,
+        "fragata": 0.0063628084026277065,
+        "inglesa": 0.00583264883607626,
+        "dicho": 0.0057442886754870415,
+        "inglaterra": 0.005655928049236536
+      }
+    },
+    "18": {
+      "color": "#7570b3",
+      "words": {
+        "mba": 0.05599527433514595,
+        "ndi": 0.044137801975011826,
+        "diya": 0.025363467633724213,
+        "ejemplos": 0.018446607515215874,
+        "mbu": 0.017129110172390938,
+        "tenido": 0.015976300463080406,
+        "plural": 0.014658802188932896,
+        "vala": 0.014494115486741066,
+        "diyaka": 0.013505992479622364,
+        "perfecto": 0.0130119314417243
+      }
+    },
+    "19": {
+      "color": "#e62a8a",
+      "words": {
+        "vida": 0.008447124622762203,
+        "eran": 0.008244410157203674,
+        "guerra": 0.008109266869723797,
+        "veces": 0.007906551472842693,
+        "diez": 0.007703836541622877,
+        "pueblo": 0.007433549966663122,
+        "dios": 0.007365979254245758,
+        "ver": 0.007230835966765881,
+        "hombres": 0.007095692679286003,
+        "mismos": 0.006757834460586309
+      }
+    },
+    "20": {
+      "color": "#67a61e",
+      "words": {
+        "comercio": 0.012664247304201126,
+        "ingleses": 0.011578896082937717,
+        "misioneros": 0.009950867854058743,
+        "nada": 0.009950867854058743,
+        "nuestras": 0.008865516632795334,
+        "habitantes": 0.00868462398648262,
+        "puntos": 0.008503732271492481,
+        "sistema": 0.007599273696541786,
+        "objeto": 0.007599272299557924,
+        "golfo": 0.007418380584567785
+      }
+    },
+    "21": {
+      "color": "#e5ab02",
+      "words": {
+        "alberto": 0.031187312677502632,
+        "guante": 0.02661970444023609,
+        "atkinsson": 0.02220959961414337,
+        "jóven": 0.01779949478805065,
+        "doctor": 0.01669696904718876,
+        "virginia": 0.016381962224841118,
+        "nesky": 0.015436938963830471,
+        "sneyders": 0.015436938963830471,
+        "mientras": 0.012444368563592434,
+        "amigo": 0.010396820493042469
+      }
+    },
+    "22": {
+      "color": "#a5761e",
+      "words": {
+        "artículos": 0.014304540120065212,
+        "demas": 0.012037023901939392,
+        "chacon": 0.011688174679875374,
+        "estacion": 0.009595083072781563,
+        "algun": 0.009420658461749554,
+        "lugar": 0.009246233850717545,
+        "alguno": 0.008897385559976101,
+        "será": 0.008374112658202648,
+        "josé": 0.008199688047170639,
+        "teniente": 0.008025264367461205
+      }
+    },
+    "23": {
+      "color": "#666666",
+      "words": {
+        "primeros": 0.014396926388144493,
+        "decir": 0.011697839945554733,
+        "inglés": 0.011517900973558426,
+        "pais": 0.010618205182254314,
+        "fernandianos": 0.010618205182254314,
+        "buen": 0.010078389197587967,
+        "cuanto": 0.009898449294269085,
+        "unas": 0.008638875558972359,
+        "señor": 0.008458936586976051,
+        "particular": 0.008278997614979744
+      }
+    },
+    "24": {
+      "color": "#1b9e77",
+      "words": {
+        "también": 0.021855326369404793,
+        "ministro": 0.01970306970179081,
+        "casi": 0.01639190874993801,
+        "caso": 0.015067442320287228,
+        "partido": 0.014736327342689037,
+        "administración": 0.013246303424239159,
+        "según": 0.011921838857233524,
+        "meses": 0.009272909723222256,
+        "creo": 0.008776235394179821,
+        "alguna": 0.00844512041658163
+      }
+    },
+    "25": {
+      "color": "#d76003",
+      "words": {
+        "subili": 0.03553834557533264,
+        "diye": 0.03508278355002403,
+        "kala": 0.027793802320957184,
+        "mband": 0.027338240295648575,
+        "hüa": 0.01731589064002037,
+        "diyakidi": 0.015493644401431084,
+        "tiempos": 0.01458252128213644,
+        "sonido": 0.013671398162841797,
+        "significado": 0.012304713949561119,
+        "indefinido": 0.012304713949561119
+      }
+    },
+    "26": {
+      "color": "#7570b3",
+      "words": {
+        "bajo": 0.00862971879541874,
+        "tierra": 0.007957984693348408,
+        "comercio": 0.007699625566601753,
+        "ingleses": 0.0073895943351089954,
+        "misma": 0.006976219359785318,
+        "aunque": 0.006562844384461641,
+        "isabel": 0.005994454026222229,
+        "casi": 0.005942781921476126,
+        "alguna": 0.00589111028239131,
+        "tienen": 0.005787767935544252
+      }
+    },
+    "27": {
+      "color": "#e62a8a",
+      "words": {
+        "capitan": 0.02951289899647236,
+        "gris": 0.0287362951785326,
+        "flavio": 0.027571389451622963,
+        "dijo": 0.025241577997803688,
+        "colmenares": 0.023105913773179054,
+        "añadió": 0.017087232321500778,
+        "miss": 0.01611647754907608,
+        "yokuka": 0.014563268981873989,
+        "kiohenlinda": 0.012815909460186958,
+        "hallaba": 0.012621758505702019
+      }
+    },
+    "28": {
+      "color": "#67a61e",
+      "words": {
+        "guillemar": 0.03073563240468502,
+        "dice": 0.03073563240468502,
+        "consul": 0.02520432509481907,
+        "colonizacion": 0.018443837761878967,
+        "guinea": 0.015985479578375816,
+        "islas": 0.012297941371798515,
+        "entonces": 0.01106876041740179,
+        "página": 0.01106876041740179,
+        "golfo": 0.01106876041740179,
+        "lugar": 0.010454170405864716
+      }
+    },
+    "29": {
+      "color": "#e5ab02",
+      "words": {
+        "mar": 0.012276386842131615,
+        "mis": 0.009908200241625309,
+        "nada": 0.009666550904512405,
+        "estaba": 0.0086516123265028,
+        "visto": 0.007733338046818972,
+        "hombre": 0.007636675611138344,
+        "pronto": 0.007056711707264185,
+        "decir": 0.006960051134228706,
+        "objeto": 0.005896783899515867,
+        "cabeza": 0.005751792807132006
+      }
+    },
+    "30": {
+      "color": "#a5761e",
+      "words": {
+        "señor": 0.019726509228348732,
+        "españoles": 0.012522672303020954,
+        "colonia": 0.012522672303020954,
+        "san": 0.010978992097079754,
+        "pro": 0.009778352454304695,
+        "cabo": 0.009435312822461128,
+        "efecto": 0.009092273190617561,
+        "acto": 0.008577712811529636,
+        "nosotros": 0.008577712811529636,
+        "bote": 0.007034033536911011
+      }
+    },
+    "31": {
+      "color": "#666666",
+      "words": {
+        "inglaterra": 0.014451952651143074,
+        "segun": 0.014014058746397495,
+        "bajo": 0.01211651973426342,
+        "mal": 0.011386697180569172,
+        "cia": 0.009635121561586857,
+        "sociedad": 0.008905299007892609,
+        "varios": 0.008029511198401451,
+        "será": 0.00759161775931716,
+        "efectos": 0.00729968911036849,
+        "razon": 0.007007759530097246
+      }
+    },
+    "32": {
+      "color": "#1b9e77",
+      "words": {
+        "papúes": 0.028505360707640648,
+        "había": 0.017948796972632408,
+        "nuevaguinea": 0.017420969903469086,
+        "dorey": 0.016629226505756378,
+        "mis": 0.01636531390249729,
+        "después": 0.01451791450381279,
+        "tenía": 0.01187877357006073,
+        "pueblo": 0.011350945569574833,
+        "papúe": 0.011087031103670597,
+        "viaje": 0.011087031103670597
+      }
+    },
+    "33": {
+      "color": "#d76003",
+      "words": {
+        "mision": 0.01918601803481579,
+        "además": 0.011807295493781567,
+        "haber": 0.011002344079315662,
+        "quien": 0.00925828330218792,
+        "alguna": 0.008855807594954967,
+        "habian": 0.00858748983591795,
+        "santo": 0.008453331887722015,
+        "ingleses": 0.008319173008203506,
+        "pais": 0.007648380473256111,
+        "españoles": 0.007245904300361872
+      }
+    },
+    "34": {
+      "color": "#7570b3",
+      "words": {
+        "cabo": 0.010404773987829685,
+        "cuales": 0.009524435736238956,
+        "hemos": 0.009524435736238956,
+        "grande": 0.007283580023795366,
+        "todavía": 0.006883427035063505,
+        "mujeres": 0.006883427035063505,
+        "camino": 0.006723366677761078,
+        "misma": 0.006163152866065502,
+        "playa": 0.005843030288815498,
+        "sol": 0.0056829690001904964
+      }
+    },
+    "35": {
+      "color": "#e62a8a",
+      "words": {
+        "hombres": 0.02000763826072216,
+        "bahía": 0.015355058945715427,
+        "están": 0.011167739517986774,
+        "veces": 0.011012651957571507,
+        "cuales": 0.01054739486426115,
+        "encuentra": 0.01008213683962822,
+        "cuatro": 0.009771968238055706,
+        "días": 0.00899653509259224,
+        "indígenas": 0.00791093334555626,
+        "nuestras": 0.007290590088814497
+      }
+    },
+    "36": {
+      "color": "#67a61e",
+      "words": {
+        "sólo": 0.018562141805887222,
+        "días": 0.007865679450333118,
+        "debe": 0.00780275696888566,
+        "alguna": 0.007488155271857977,
+        "hace": 0.006796030793339014,
+        "dar": 0.0064185080118477345,
+        "número": 0.006292667239904404,
+        "falta": 0.00616682693362236,
+        "buena": 0.006040985696017742,
+        "fuera": 0.005726384464651346
+      }
+    },
+    "37": {
+      "color": "#e5ab02",
+      "words": {
+        "esa": 0.021976934745907784,
+        "ese": 0.021695196628570557,
+        "españoles": 0.021554328501224518,
+        "hace": 0.013947416096925735,
+        "esos": 0.01394741516560316,
+        "cubanos": 0.012256990186870098,
+        "justicia": 0.010003089904785156,
+        "des": 0.009439615532755852,
+        "comercio": 0.009298746474087238,
+        "vida": 0.009017009288072586
+      }
+    },
+    "38": {
+      "color": "#a5761e",
+      "words": {
+        "español": 0.017377102747559547,
+        "habian": 0.01709909178316593,
+        "muerte": 0.011677867732942104,
+        "mil": 0.009453777223825455,
+        "república": 0.008619743399322033,
+        "pocos": 0.008063720539212227,
+        "número": 0.007785709109157324,
+        "¿qué": 0.007507698610424995,
+        "capitan": 0.007507697679102421,
+        "amor": 0.007368691731244326
+      }
+    },
+    "39": {
+      "color": "#666666",
+      "words": {
+        "pretérito": 0.04858340322971344,
+        "etc": 0.0372614786028862,
+        "presente": 0.02676296979188919,
+        "segunda": 0.02676296979188919,
+        "verbo": 0.024292729794979095,
+        "ejemplo": 0.015235193073749542,
+        "nombres": 0.01441177912056446,
+        "clase": 0.014205926097929478,
+        "umba": 0.014000073075294495,
+        "singular": 0.012764954008162022
+      }
+    }
+  },
+
+
