@@ -1,0 +1,706 @@
+Franquismo Filipinas test 1 15.4.21
+
+Etiquetado final  “architópicos”:
+
+1.	HISTORIA IMPERIAL: Historia colonial (12 tópicos) - Leyenda blanca – biografías - Conquistadores y navegantes + Arquitectura ( 3 tópicos).
+2.	IGLESIA CATOLICA: Religiosos (10 tópicos) - Historia misional - Congreso Eucarístico. 
+3.	EJÉRCITO: Ejército-Baler- Millan Astray (4 tópicos) + Marina (2 tópico)
+4.	PERSONALIADES FRANQUISTAS EN FILIPINAS: Prohombres del régimen en Filipinas - Antonio Pérez de Olaguer - Gerardo Diego + Millan Astray (4 tópicos)
+5.	GÉNEROS LITERARIOS: Biografías (5 tópicos) + cuentos (1 tópico) + novelas (16)
+6.	HISPANIDAD: Hispanidad (3 tópicos) 
+7.	RIZAL: Rizal- Retractación rizalina (2 tópicos)
+8.	LOS CHINOS: Chinos (2 tópicos).
+9.	VINCULO CON AMERICA: América (2 tópicos)
+10.	MEDICINA COLONIAL: Medicina y Hospitales (2 tópicos)
+11.	INDIGENAS: Indios (1 tópico) + Moros (1 tópico) + Indígenas (1 tópico)
+12.	MANILA: Manila  (1 tópico)
+13.	ESTADOS UNIDOS: Estados Unidos (1 tópico)
+14.	SINIBALDO DE MAS: Sinibaldo de Mas (1 tópico)
+
+Segundo etiquetados: ideas generales
+•	Historia colonial: 0, 2, 4, 9, 10, 11, 12, 17, 20, 23, 25, 26, 28
+•	Leyenda blanca: 10, 11, 20
+•	Biografías: 0, 20, 7, 0, 2
+•	Conquistadores y navegantes: 0, 2, 12, 17, 37
+•	Distancia (gramatical): 1, 21
+•	Moros: 2
+•	Economía:3
+•	Pesca (española): 3
+•	Arquitectura: 4, 13, 28
+•	Diaz Trechuelo: 28.
+•	AntiEspaña: 5
+•	Prohombres del régimen en Filipinas: 6, 7, 29, 16
+•	Escritores franquistas en Filipinas: 6, 16. 
+•	Gerardo Diego: 6
+•	Religiosos: 7, 18, 19, 20, 23, 25, 26, 30, 31, 36
+•	Historia misional: 30, 36
+•	Rizal: 8, 27
+•	Blas Piñar: 27
+•	Retractación rizalina: 8
+•	Ejército: 2, 9, 29, 28.
+•	Millan Astray: 29
+•	Baler: 29
+•	América: 12, 25
+•	Geografía: 15, 17
+•	Estados Unidos: 15
+•	Antonio Pérez de Olaguer: 16
+•	Sinibaldo de Mas: 16.
+•	Novelas: 16
+•	Indígenas: 17
+•	Manila: 18
+•	Chinos. 18, 26
+•	Congreso Eucarístico: 19
+•	Hispanidad: 19, 22, 27
+•	Mujer: 22
+•	Indios: 23
+•	Medicina y Hospitales: 16, 24
+•	Marina: 24, 33
+
+Primer etiquetado: interpretación del LDA
+
+  
+"0": {navegantes y exploradores, biografías de conquistadores 
+1": {lejanía, temporalidad…
+    "2": {historia colonial, Legazpi, campañas de Joló, militares
+    "3": {economía, trabajo en la pesca, mar, marina
+    "4": {historia colonial, arquitectura, ediciones y estructuras coloniales
+    "5": {Masonería, republica, ¿Quezón?, ¿AntiEspaña?
+    "6": {viaje de Gerardo diego, prohombres del Régimen
+    "7": {¿?¿ historia misional. religiosos, biografía de Anselmo Polanco, misioneros agustinos-filipinos.
+    "8": {¿?¿ ¿José Rizal y la iglesia? ¿Tema del Retractación rizalina? 
+    "9": {Ejército, Expedición de Indochina, con Francia; Marina
+    "10": {Historia colonial, Historia Imperial, Carlos IV y Juana de Arco, Ricardo (¿corazón de León?), Cruzadas
+    "11": {Administración colonial, Historia colonial, ¿franceses? ¿Tratado con franceses?, ¿geografía, política internacional?
+    "12": {Descubrimientos, Marina, Armada, Conquista de América, Oro, Biografías de conquistadores
+    "13": {arquitectura, planos, 
+    "14": {posesión, cielo, noche, ojos, ¿mujer? ¿?
+    "15": {geografía, demografía, descripción del territorio, comparación Filipinas-Francia-US
+    "16": {Pérez de Olaguer, sus libros, sus temas
+    "17": {militares, indígenas, geografía, biografía de conquistadores (descubrimiento de grandes tierras, pobladas por indígenas…)
+    "18": {Manila, habitantes, contraste entre Chinos e intramuros, edificios emblemáticos (universidad…)
+    "19": {Hispanidad, congreso eucarístico, catolicismo
+    "20": {Historia colonia, Historia Imperial, Felipe II, religión y oro en Filipinas
+    "21": { comparación presente pasado, palabras gramaticales
+    "22": {¿? ,sorpresa, fascinación, comparación del nativo con Europa, relación con la naturaleza colonial…
+    "23": {¿Santería?¿Aparición de la virgen a los indios? ?¿?
+    "24": {Medicina, Medicina colonial, Armada-marina-ejercito, Hospital…
+    "25": {Historia colonial, misional, vinculación con América.
+    "26": {Historia misional, Los Chinos, relaciones hispano-chinas, vinculación con la religión.
+    "27": {Hispanidad, Filipinas país hispánico, Rizal como símbolo de la hispanidad, Hispanidad como catolicismo
+    "28": {Arquitectura colonial, historia colonial, arquitectura militar, Diaz Trechuelo
+    "29": {Militares, 98, Baler, Legión, Millan Astray…
+    "30": {misioneros, historia misional, 
+    "31": {misioneros, edificios/labores de las órdenes
+    "32": {¿? Documentos, México? Historia colonial
+    "33": {Marina, armada, ejercito, Fragata Numancia, barcos activos durante el 98.
+    "34": { ¿religión? Dones del espíritu, libro, educación..?
+    "35": {Historia Imperial, vinculación con América y Europa, Austrias mayores
+    "36": {Historia Misional, Dominicos
+    "37": {Expedición Balmis, Historia colonial, Medicina colonial Administración colonial, protagonista de la expedición
+    "38": {cuentos y tradiciones populares…
+    "39": {¿?¿informe? ¿marina? ¿Arquitectura? ¿Informe de sinibaldo de Mas?
+
+Extracto del archivo original del LDA, en JSON (reproducible en HuthiTrust) 
+"40": {
+    "0": {
+      "color": "#1b9e77",
+      "words": {
+        "fue": 0.015991948544979095,
+        "expedición": 0.012976471334695816,
+        "hacia": 0.008929896168410778,
+        "exploradores": 0.008482438512146473,
+        "país": 0.00717897480353713,
+        "norte": 0.0068287900649011135,
+        "sur": 0.006264604162424803,
+        "río": 0.0062062400393188,
+        "navegantes": 0.005894965026527643,
+        "tolsa": 0.005486416630446911
+      }
+    },
+    "1": {
+      "color": "#d76003",
+      "words": {
+        "días": 0.009965907782316208,
+        "cada": 0.0053449091501533985,
+        "des": 0.005066535901278257,
+        "aquella": 0.005024779587984085,
+        "aquellos": 0.0048855929635465145,
+        "aquí": 0.004802080802619457,
+        "durante": 0.004301008768379688,
+        "noche": 0.003980879206210375,
+        "veces": 0.003953041974455118,
+        "unos": 0.0038973672781139612
+      }
+    },
+    "2": {
+      "color": "#7570b3",
+      "words": {
+        "legazpi": 0.01265900768339634,
+        "eran": 0.006185488309711218,
+        "capitán": 0.006002027541399002,
+        "señor": 0.005975819658488035,
+        "buen": 0.0059234024956822395,
+        "unos": 0.005635107401758432,
+        "miguel": 0.005530274007469416,
+        "moros": 0.005110935773700476,
+        "cuenta": 0.005006101448088884,
+        "armas": 0.004586764145642519
+      }
+    },
+    "3": {
+      "color": "#e62a8a",
+      "words": {
+        "nacional": 0.010818330571055412,
+        "pesca": 0.007762228604406118,
+        "social": 0.007437686901539564,
+        "trabajo": 0.007140190340578556,
+        "habla": 0.005598616786301136,
+        "sea": 0.005192939192056656,
+        "política": 0.00516589405015111,
+        "edición": 0.0047061266377568245,
+        "nuestros": 0.004327495116740465,
+        "marina": 0.004246359225362539
+      }
+    },
+    "4": {
+      "color": "#67a61e",
+      "words": {
+        "plaza": 0.01321163959801197,
+        "gobernador": 0.012891491875052452,
+        "obras": 0.011888362467288971,
+        "plano": 0.011824333108961582,
+        "iglesia": 0.011504185386002064,
+        "fue": 0.010565086267888546,
+        "frente": 0.009903447702527046,
+        "fig": 0.009369867853820324,
+        "arquitectura": 0.007406295742839575,
+        "proyecto": 0.007384952623397112
+      }
+    },
+    "5": {
+      "color": "#e5ab02",
+      "words": {
+        "masonería": 0.010497245006263256,
+        "logias": 0.0063355788588523865,
+        "oriente": 0.006261263508349657,
+        "política": 0.006001160014420748,
+        "secta": 0.004849269520491362,
+        "logia": 0.004793533124029636,
+        "república": 0.004589165560901165,
+        "presidente": 0.004514850210398436,
+        "ley": 0.004477692302316427,
+        "señor": 0.004384797997772694
+      }
+    },
+    "6": {
+      "color": "#a5761e",
+      "words": {
+        "ibíd": 0.034606706351041794,
+        "ídem": 0.031900595873594284,
+        "diego": 0.02085329405963421,
+        "gerardo": 0.015568417496979237,
+        "poeta": 0.012862306088209152,
+        "extranjeros": 0.011684351600706577,
+        "«la": 0.009614972397685051,
+        "núm": 0.00951946247369051,
+        "fray": 0.009487626142799854,
+        "«el": 0.008373345248401165
+      }
+    },
+    "7": {
+      "color": "#666666",
+      "words": {
+        "obispo": 0.015486753545701504,
+        "miguel": 0.008727086707949638,
+        "aun": 0.007262142840772867,
+        "garcía": 0.007031937595456839,
+        "teruel": 0.005880910437554121,
+        "madre": 0.005483283195644617,
+        "mas": 0.00521122245118022,
+        "señor": 0.005022872239351273,
+        "unos": 0.004729883745312691,
+        "dijo": 0.004185762722045183
+      }
+    },
+    "8": {
+      "color": "#1b9e77",
+      "words": {
+        "libro": 0.007306316867470741,
+        "durante": 0.006387826055288315,
+        "iglesia": 0.006165161728858948,
+        "josé": 0.005204921122640371,
+        "además": 0.004954423289746046,
+        "ción": 0.004857008345425129,
+        "ver": 0.004815257620066404,
+        "haber": 0.00445342855527997,
+        "número": 0.004328180104494095,
+        "motivo": 0.003590603591874242
+      }
+    },
+    "9": {
+      "color": "#d76003",
+      "words": {
+        "francia": 0.008108380250632763,
+        "marqués": 0.006794037763029337,
+        "tropas": 0.0059239803813397884,
+        "ejército": 0.005701838061213493,
+        "fuerzas": 0.005701838061213493,
+        "jefe": 0.005146482028067112,
+        "conde": 0.005146482028067112,
+        "escuadra": 0.004757733084261417,
+        "barcos": 0.004109818954020739,
+        "mando": 0.003813628340139985
+      }
+    },
+    "10": {
+      "color": "#7570b3",
+      "words": {
+        "carlos": 0.013543032109737396,
+        "emperador": 0.012593765743076801,
+        "reyes": 0.010046565905213356,
+        "idea": 0.009714323095977306,
+        "ricardo": 0.008575202897191048,
+        "política": 0.008369527757167816,
+        "monarquía": 0.008195496164262295,
+        "arco": 0.008179674856364727,
+        "francia": 0.007309513632208109,
+        "iii": 0.006692490074783564
+      }
+    },
+    "11": {
+      "color": "#e62a8a",
+      "words": {
+        "norte": 0.011877215467393398,
+        "durante": 0.008726433850824833,
+        "tratado": 0.008342860266566277,
+        "gobernador": 0.008301762863993645,
+        "consejo": 0.00797298550605774,
+        "bajo": 0.006877061445266008,
+        "cuatro": 0.006411293521523476,
+        "franceses": 0.006096215452998877,
+        "poder": 0.005931826774030924,
+        "mayo": 0.005671544931828976
+      }
+    },
+    "12": {
+      "color": "#67a61e",
+      "words": {
+        "magallanes": 0.019756980240345,
+        "núñez": 0.009301550686359406,
+        "balboa": 0.008973264135420322,
+        "ojeda": 0.006804584059864283,
+        "armada": 0.006675258744508028,
+        "oro": 0.006008737720549107,
+        "capitán": 0.0055312300100922585,
+        "sebastián": 0.005163151305168867,
+        "vespucio": 0.005153203383088112,
+        "dice": 0.005023878067731857
+      }
+    },
+    "13": {
+      "color": "#e5ab02",
+      "words": {
+        "dibujo": 0.017866307869553566,
+        "río": 0.016899611800909042,
+        "planos": 0.01632675714790821,
+        "calle": 0.015431668609380722,
+        "alto": 0.014823009259998798,
+        "escala": 0.013784707523882389,
+        "texto": 0.013355066999793053,
+        "ancho": 0.012853816151618958,
+        "santo": 0.010204357095062733,
+        "camino": 0.010061142966151237
+      }
+    },
+    "14": {
+      "color": "#a5761e",
+      "words": {
+        "mis": 0.007703072857111692,
+        "qué": 0.006700420752167702,
+        "cielo": 0.006366203539073467,
+        "estaba": 0.005904665682464838,
+        "noche": 0.005029334221035242,
+        "bajo": 0.004981589037925005,
+        "¿qué": 0.004711031913757324,
+        "tenía": 0.004631456453353167,
+        "ojos": 0.004535966087132692,
+        "voz": 0.004233578685671091
+      }
+    },
+    "15": {
+      "color": "#666666",
+      "words": {
+        "superficie": 0.011718805879354477,
+        "francia": 0.011431233026087284,
+        "población": 0.010400766506791115,
+        "habitantes": 0.010328873060643673,
+        "territorio": 0.008555511943995953,
+        "sur": 0.008531548082828522,
+        "estados": 0.007764688227325678,
+        "colonia": 0.007189543917775154,
+        "costa": 0.007093686610460281,
+        "gobernador": 0.0063747563399374485
+      }
+    },
+    "16": {
+      "color": "#1b9e77",
+      "words": {
+        "usted": 0.008343418128788471,
+        "antonio": 0.007783590350300074,
+        "doctor": 0.006880642380565405,
+        "pérez": 0.0066278171725571156,
+        "lázaro": 0.006573640275746584,
+        "libro": 0.006483345292508602,
+        "enfermos": 0.005435925908386707,
+        "hace": 0.0048941574059426785,
+        "olaguer": 0.004749685991555452,
+        "señor": 0.004695509094744921
+      }
+    },
+    "17": {
+      "color": "#d76003",
+      "words": {
+        "cabo": 0.0076514072716236115,
+        "eran": 0.007466452196240425,
+        "tierras": 0.005480615887790918,
+        "allí": 0.00521778455004096,
+        "indígenas": 0.004925749730318785,
+        "hombre": 0.00486734276637435,
+        "río": 0.0047992016188800335,
+        "tenía": 0.004575308412313461,
+        "grandes": 0.0043319459073245525,
+        "elcano": 0.004322211258113384
+      }
+    },
+    "18": {
+      "color": "#7570b3",
+      "words": {
+        "hacia": 0.007784635294228792,
+        "casi": 0.006824457086622715,
+        "chinos": 0.006550121121108532,
+        "unos": 0.006172908470034599,
+        "capital": 0.005418484099209309,
+        "archipiélago": 0.005247023887932301,
+        "intramuros": 0.005178439896553755,
+        "hoy": 0.005006980616599321,
+        "universidad": 0.004766934551298618,
+        "casas": 0.004595475271344185
+      }
+    },
+    "19": {
+      "color": "#e62a8a",
+      "words": {
+        "américa": 0.006656551733613014,
+        "nación": 0.005950342398136854,
+        "xii": 0.0056348019279539585,
+        "pío": 0.0054845442064106464,
+        "papa": 0.0054244413040578365,
+        "patria": 0.005259158089756966,
+        "espíritu": 0.005048797931522131,
+        "hispanidad": 0.004988695029169321,
+        "europa": 0.00423740828409791,
+        "naciones": 0.003486121306195855
+      }
+    },
+    "20": {
+      "color": "#67a61e",
+      "words": {
+        "felipe": 0.030100401490926743,
+        "reino": 0.013249232433736324,
+        "religión": 0.012058660387992859,
+        "príncipe": 0.010898616164922714,
+        "iglesia": 0.009341714903712273,
+        "muchos": 0.007815340533852577,
+        "príncipes": 0.007510065566748381,
+        "tierras": 0.006930043920874596,
+        "oro": 0.006930043920874596,
+        "reinos": 0.006380549166351557
+      }
+    },
+    "21": {
+      "color": "#e5ab02",
+      "words": {
+        "sido": 0.005526328459382057,
+        "ante": 0.005076516419649124,
+        "nada": 0.004896591417491436,
+        "hacia": 0.004459631163626909,
+        "ahora": 0.004388945642858744,
+        "dice": 0.0043246871791779995,
+        "cuatro": 0.004286131821572781,
+        "hemos": 0.004176891874521971,
+        "éste": 0.0040933554992079735,
+        "cuenta": 0.004054800141602755
+      }
+    },
+    "22": {
+      "color": "#a5761e",
+      "words": {
+        "versión": 0.04015136510133743,
+        "elementos": 0.02289728634059429,
+        "mujer": 0.01631396822631359,
+        "elemento": 0.013601062819361687,
+        "hispánicas": 0.012407383881509304,
+        "europa": 0.009839166887104511,
+        "halla": 0.009802994318306446,
+        "semejantes": 0.0071624331176280975,
+        "hombre": 0.0068730562925338745,
+        "animal": 0.006547507829964161
+      }
+    },
+    "23": {
+      "color": "#666666",
+      "words": {
+        "indios": 0.009794261306524277,
+        "hizo": 0.00942448154091835,
+        "según": 0.006686114240437746,
+        "estaba": 0.006366304587572813,
+        "puerto": 0.005766662303358316,
+        "maría": 0.005566781386733055,
+        "caso": 0.005506817251443863,
+        "causa": 0.005236978176981211,
+        "santo": 0.005087067373096943,
+        "des": 0.005057085305452347
+      }
+    },
+    "24": {
+      "color": "#1b9e77",
+      "words": {
+        "enfermos": 0.01774236187338829,
+        "marina": 0.01607046090066433,
+        "medicina": 0.011354204267263412,
+        "art": 0.009183228015899658,
+        "armada": 0.006812622305005789,
+        "naval": 0.006662899628281593,
+        "hospitales": 0.006313547492027283,
+        "hospitalaria": 0.006163824815303087,
+        "sanidad": 0.005939241033047438,
+        "archivo": 0.0049410914070904255
+      }
+    },
+    "25": {
+      "color": "#d76003",
+      "words": {
+        "acosta": 0.024362705647945404,
+        "misiones": 0.012766994535923004,
+        "perú": 0.009847448207437992,
+        "compañía": 0.008197987452149391,
+        "cfr": 0.007802116218954325,
+        "indios": 0.007076353300362825,
+        "lima": 0.0070268698036670685,
+        "carta": 0.00656502041965723,
+        "roma": 0.006136160809546709,
+        "provincial": 0.00610317150130868
+      }
+    },
+    "26": {
+      "color": "#7570b3",
+      "words": {
+        "china": 0.02303888462483883,
+        "fray": 0.015235531143844128,
+        "lengua": 0.010611321777105331,
+        "mas": 0.008546942844986916,
+        "chinos": 0.008134067058563232,
+        "relaciones": 0.008010203950107098,
+        "libro": 0.0076799034141004086,
+        "asia": 0.007473465520888567,
+        "padres": 0.007432178128510714,
+        "sanz": 0.00739089073613286
+      }
+    },
+    "27": {
+      "color": "#e62a8a",
+      "words": {
+        "pueblos": 0.009268170222640038,
+        "país": 0.007799981627613306,
+        "hispánico": 0.007570577319711447,
+        "mente": 0.00679060211405158,
+        "hoy": 0.006125329062342644,
+        "hispánica": 0.006010626908391714,
+        "filipina": 0.005941805429756641,
+        "rizal": 0.005872983951121569,
+        "hombre": 0.005460056010633707,
+        "espíritu": 0.005024187732487917
+      }
+    },
+    "28": {
+      "color": "#67a61e",
+      "words": {
+        "puerta": 0.02124975435435772,
+        "baluarte": 0.02077402174472809,
+        "pies": 0.015461682341992855,
+        "muralla": 0.011180095374584198,
+        "lourdes": 0.010188987478613853,
+        "fuerte": 0.009951122105121613,
+        "dicha": 0.009515034034848213,
+        "santiago": 0.009475389495491982,
+        "díaztrechuelo": 0.009435745887458324,
+        "nota": 0.009118590503931046
+      }
+    },
+    "29": {
+      "color": "#e5ab02",
+      "words": {
+        "millán": 0.02518288604915142,
+        "astray": 0.023976756259799004,
+        "teniente": 0.013048493303358555,
+        "soldados": 0.012682999484241009,
+        "coronel": 0.011952011846005917,
+        "capitán": 0.010782429948449135,
+        "legión": 0.008626018650829792,
+        "enemigo": 0.0070543959736824036,
+        "comandante": 0.006725451443344355,
+        "martín": 0.00668890168890357
+      }
+    },
+    "30": {
+      "color": "#a5761e",
+      "words": {
+        "ibid": 0.023592866957187653,
+        "religiosos": 0.020617006346583366,
+        "misioneros": 0.019831378012895584,
+        "misiones": 0.01692693866789341,
+        "provincia": 0.015308069065213203,
+        "misión": 0.012189366854727268,
+        "cristianos": 0.011046635918319225,
+        "fols": 0.010808566585183144,
+        "misionero": 0.007832705043256283,
+        "pedro": 0.007523215841501951
+      }
+    },
+    "31": {
+      "color": "#666666",
+      "words": {
+        "convento": 0.010645457543432713,
+        "santo": 0.008516413159668446,
+        "muerte": 0.0074755470268428326,
+        "padres": 0.007002426311373711,
+        "religiosos": 0.00697877025231719,
+        "allí": 0.006292745005339384,
+        "días": 0.0060088722966611385,
+        "iglesia": 0.005393815226852894,
+        "agosto": 0.005086286459118128,
+        "colegio": 0.005038974341005087
+      }
+    },
+    "32": {
+      "color": "#1b9e77",
+      "words": {
+        "doc": 0.06992711871862411,
+        "fol": 0.026570921763777733,
+        "docs": 0.02067546173930168,
+        "hjs": 0.0204707570374012,
+        "firma": 0.01973382569849491,
+        "carta": 0.014329653233289719,
+        "méjico": 0.013510839082300663,
+        "«cart": 0.0115866269916296,
+        "ind»": 0.011136279441416264,
+        "ved": 0.0101127615198493
+      }
+    },
+    "33": {
+      "color": "#d76003",
+      "words": {
+        "galeras": 0.011701127514243126,
+        "armada": 0.011079343035817146,
+        "escuadra": 0.01105108018964529,
+        "marina": 0.010711925104260445,
+        "buques": 0.010344507172703743,
+        "carlos": 0.009722723625600338,
+        "puerto": 0.009411831386387348,
+        "fragata": 0.005850704852491617,
+        "numancia": 0.005850704852491617,
+        "marqués": 0.005652864463627338
+      }
+    },
+    "34": {
+      "color": "#7570b3",
+      "words": {
+        "nuestros": 0.009301583282649517,
+        "quien": 0.00839577428996563,
+        "señor": 0.007219573482871056,
+        "mucho": 0.006759908515959978,
+        "aun": 0.006097450852394104,
+        "dió": 0.004988848231732845,
+        "eso": 0.004826613701879978,
+        "nuestras": 0.004786055069416761,
+        "cosa": 0.004421026911586523,
+        "libro": 0.004096557851880789
+      }
+    },
+    "35": {
+      "color": "#e62a8a",
+      "words": {
+        "carlos": 0.01035563088953495,
+        "felipe": 0.009045236743986607,
+        "américa": 0.008501902222633362,
+        "obras": 0.008086412213742733,
+        "luego": 0.007319351192563772,
+        "grandes": 0.007223468739539385,
+        "política": 0.007063664495944977,
+        "europa": 0.006744056474417448,
+        "reyes": 0.0060089570470154285,
+        "eran": 0.005369740538299084
+      }
+    },
+    "36": {
+      "color": "#67a61e",
+      "words": {
+        "provincia": 0.020773394033312798,
+        "col": 0.017672574147582054,
+        "dominicos": 0.013639177195727825,
+        "fol": 0.010608301497995853,
+        "rosario": 0.01021195575594902,
+        "apsr": 0.00974566675722599,
+        "vol": 0.009605780243873596,
+        "fue": 0.008276857435703278,
+        "josé": 0.008160285651683807,
+        "domingo": 0.007903826422989368
+      }
+    },
+    "37": {
+      "color": "#e5ab02",
+      "words": {
+        "vacuna": 0.02702649123966694,
+        "balmis": 0.022634778171777725,
+        "zubieta": 0.017623720690608025,
+        "expedición": 0.016666552051901817,
+        "monseñor": 0.013400918804109097,
+        "niños": 0.010585718788206577,
+        "gobernador": 0.009065509773790836,
+        "lima": 0.008277254179120064,
+        "josé": 0.007995733991265297,
+        "salvany": 0.0068696532398462296
+      }
+    },
+    "38": {
+      "color": "#a5761e",
+      "words": {
+        "versiones": 0.053060490638017654,
+        "cuentos": 0.031207948923110962,
+        "tipo": 0.029946310445666313,
+        "cuento": 0.026875529438257217,
+        "iii": 0.013140327297151089,
+        "tradición": 0.00845083873718977,
+        "populares": 0.007974748499691486,
+        "tipos": 0.007403440773487091,
+        "joven": 0.007308222819119692,
+        "marido": 0.0064988695085048676
+      }
+    },
+    "39": {
+      "color": "#666666",
+      "words": {
+        "puerto": 0.01473166048526764,
+        "según": 0.008752129971981049,
+        "pedro": 0.008670590817928314,
+        "informe": 0.007447505369782448,
+        "plano": 0.006822372321039438,
+        "puerta": 0.006768013350665569,
+        "julio": 0.006550575606524944,
+        "junio": 0.006523395888507366,
+        "mas": 0.006360318046063185,
+        "necesario": 0.0063059586100280285
+      }
+    }
+  },
+
