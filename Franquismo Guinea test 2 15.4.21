@@ -1,0 +1,706 @@
+Franquismo Guinea test 2 15.4.21
+
+Etiquetado final  “architópicos”:
+
+1.	PRODUCCIÓN DE SABER IMPERIAL: Entomología (4 tópicos) + Etnología (4 tópicos) + botánica (5 tópicos) + Geología (1 tópico)  + Geografía y descripción del territorio (1 tópico)  + botánica (2 tópicos)  + Psiquiatría y tests de inteligencia (2 tópicos) + Climatología (1 tópico) +  Gramática (1 tópico)+ Lingüística (1 tópico)
+2.	COLONIA DE EXPLOTAIÓN: Explotación agro-forestal (4 tópicos) + Legislación laboral colonial- Braceros (3 tópicos)
+3.	EDUCACIÓN y PAPEL DE LAS ÓRDENES:  Educación + Misioneros (3 tópicos)
+4.	HISTORIA IMPERIAL: Historia colonia- Expediciones  (2 tópicos)
+5.	AFRICANOS:  Negros (1 tópico) + Bubis (3 tópicos) + Bujebas  (1 tópico) + Combes (1 tópico) + Pamues (2 tópicos)
+6.	PROHOMBES DEL RÉGIMEN EN GUINEA: Bartolomé Soler (1 tópico) +  Emilio Guinea (2 tópicos)  + Domingo Manfredi  (1 tópico)
+7.	GÉNEROS LITERARIOS: Novela-viajes-Biografías (3 tópicos)
+8.	BLANCOS: (3 tópicos)
+9.	INFLUENCIA FRANCESA:  Citas del francés (3 tópicos)
+
+Segundo etiquetados: ideas generales
+
+•	Historia colonial: 32, 38
+•	Iradier: 38
+•	Entomología: 0, 5, 7, 16
+•	Etnología: 8, 13, 22, 34
+•	Botánica: 8, 9, 15, 19, 22
+•	Climatología: 39
+•	Geología: 33
+•	Educación: 1, 31
+•	Heriberto Ramon Álvarez García: 31
+•	Psiquiatría y tests de inteligencia: 2, 20
+•	Explotación agro-forestal: 3, 12, 18, 19
+•	Citas del francés: 4, 27, 28
+•	Bartolomé Soler: 6
+•	Biografías: 38.
+•	Viajes: 6, 8
+•	Novela: 6, 35
+•	Domingo Manfredi: 35
+•	Emilio Guinea: 8, 11
+•	Gastos de la política colonial: 16
+•	Legislación laboral colonial: 12, 17, 36
+•	Braceros: 12, 17, 36
+•	Geografía y descripción del territorio: 13, 21
+•	Caza y pesca: 14, 21
+•	Gramática: 14
+•	Naturaleza colonial: 22
+•	Administración: 23
+•	Ingresos: 26
+•	Paso del tiempo): 24, 26
+•	Misioneros: 25, 31
+•	Expediciones: 25, 32
+•	Animales: 29
+•	Posesivos: 30
+•	Lingüística: 27
+•	Blancos: 8, 21, 35
+•	Negros: 38,
+•	Bujeba: 37, 
+•	Bubis: 8, 20, 38
+•	Combes: 20
+•	Pamues: 20, 34
+
+Primer etiquetado: interpretación del LDA
+
+    "0": {entomología, historia natural colonial,
+    "1": {educación colonial (¿sobre todo la elemental?) , agentes, espacios, divisiones territoriales…
+    "2": {psiquiatría colonial, homo infantilis, test de inteligencia de, tesis de la regresión
+    "3": {agricultura colonial, producción del cacao café, madera (plantación colonia de explotación agro-maderera)
+    "4": {citas del francés quizás historia colonial, referencias al Tratado de Paris 
+    "5": {   entomología, historia natural colonial,
+    "6": {novela colonial, La selva humillada, ojos, vita, mirada sobre algo homogéneo…
+    "7": {  entomología, historia natural colonial,
+    "8": { novela colonial, ¿en el país de los bubis, de Emilio Guinea?, etnobotánica, libro de viajes (bubis, moka…)
+    "9": {geografía, historia natural, “formas tipo” (etnología o etnobotánica)
+    "10": {administración colonial, presupuestos coloniales…
+    "11": {historia natural, botánica colonial, libros de viajes, Emilio Guinea
+    "12": {braceros, economía del cacao, tratados con Liberia, regulaciones laborales 
+    "13": {geografía, etnografía de Rio Benito y del Golfo, morenos… ¿
+    "14": {¿? Gramática? Valoración primitiva? Etnobotánica?, historia natural colonial
+    "15": {botánica colonial, historia natural colonial
+    "16": {entomología, historia natural colonial,
+    "17": { braceros, economía del cacao, tratados con Liberia, regulaciones laborales
+    "18": {colonia de explotación, explotación oriental (Okumen), mediciones, infraestructuras del Okumen (quizás cartas, por la cita…) 
+    "19": { colonia de explotación, explotación forestal, características de la madera (grosor, humedad…)
+    "20": {psiquiatría colonial? Muestras y frecuencias entre diferentes etnias (cummins test?) 
+    "21": {caza y pesca, especies de annobon…, interés para el blanco (target?)
+    "22": {etnobotánica, relación entre tierra, a hombre, fauna en la selva (¿tropo de la animalización’)
+    "23": {administración, derecho colonial  ¿igualdad racial mejoras…?
+    "24": {?¿? comparación en tiempo?
+    "25": {historia colonial, Geografía histórica, gobernadores y misioneros en la isla (Relación curas-militares?)
+    "26": {¿¿paso del tiempo, dinero, meses
+    "27": {¿¿ etnografía bantú? Lingüística y política? { ?¿ citas del francés ?
+    "28": { ?¿ citas del francés ?
+    "29": {cuentos nativos, animales como espíritus protectores…
+    "30": {posesivos, ¿importancia?
+    "31": {historia de la educación, importancia de las misiones (y de, o texto por, Heriberto Ramon Álvarez García?
+    "32": {historia colonial, tratado del pardo, expediciones
+    "33": {historia natural colonial, geología
+    "34": {etnología, historia de la etnia pamue, extensión geográfica… 
+    "35": {Novela colonial, Tierra negra, imaginación del encuentro blancos-negros vía alegoría de los riebetta. 
+    "36": {braceros, economía de explotación agraria, derecho laboral
+    "37": {¿etnografía colonial? ¿Relación con marruecos? ¿Cuadros, psiquiatría? 
+    "38": {historia colonial, viajes de Iradier por el muni, ¿tratos con los jefes?)
+    "39": {climatografía
+
+
+
+Extracto del archivo original del LDA, en JSON (reproducible en HathiTrust) 
+
+"40": {
+    "0": {
+      "color": "#1b9e77",
+      "words": {
+        "anterior": 0.014290891587734222,
+        "cuerpo": 0.013695520348846912,
+        "areolas": 0.013298606500029564,
+        "porción": 0.012306321412324905,
+        "hemielitros": 0.011909407563507557,
+        "área": 0.011710950173437595,
+        "pardo": 0.011115578934550285,
+        "ápice": 0.010321751236915588,
+        "cabeza": 0.010123293846845627,
+        "borde": 0.009924836456775665
+      }
+    },
+    "1": {
+      "color": "#d76003",
+      "words": {
+        "maestros": 0.0191115103662014,
+        "niñas": 0.01874452829360962,
+        "curso": 0.012110646814107895,
+        "elemental": 0.010529806837439537,
+        "distrito": 0.009824074804782867,
+        "estudios": 0.009372405707836151,
+        "maestro": 0.008017400279641151,
+        "clases": 0.007960941642522812,
+        "idem": 0.007339897099882364,
+        "oficiales": 0.007283437997102737
+      }
+    },
+    "2": {
+      "color": "#7570b3",
+      "words": {
+        "niño": 0.03404349833726883,
+        "edad": 0.02422959730029106,
+        "meses": 0.02208280749619007,
+        "mental": 0.017482541501522064,
+        "«test»": 0.011962222866714,
+        "pruebas": 0.011042170226573944,
+        "valores": 0.01088882889598608,
+        "páginas": 0.010888827964663506,
+        "edades": 0.009662090800702572,
+        "anos": 0.008128669112920761
+      }
+    },
+    "3": {
+      "color": "#e62a8a",
+      "words": {
+        "agricultura": 0.008813653141260147,
+        "cacao": 0.007385822478681803,
+        "café": 0.007336587179452181,
+        "cultivo": 0.006991938222199678,
+        "cultivos": 0.0069427029229700565,
+        "tronco": 0.006154934410005808,
+        "suelo": 0.005711814388632774,
+        "árboles": 0.005367165897041559,
+        "continente": 0.005367165897041559,
+        "plantas": 0.005219459068030119
+      }
+    },
+    "4": {
+      "color": "#67a61e",
+      "words": {
+        "pour": 0.07953465729951859,
+        "paris": 0.030072281137108803,
+        "dont": 0.01854979619383812,
+        "faire": 0.01812824234366417,
+        "classe": 0.01728513278067112,
+        "leurs": 0.017144614830613136,
+        "comme": 0.016160989180207253,
+        "encore": 0.015458397567272186,
+        "soit": 0.013772180303931236,
+        "histoire": 0.013350625522434711
+      }
+    },
+    "5": {
+      "color": "#e5ab02",
+      "words": {
+        "protórax": 0.025915129110217094,
+        "antenas": 0.01897202618420124,
+        "grueso": 0.01726670376956463,
+        "posteriores": 0.016809919849038124,
+        "cabeza": 0.015378667041659355,
+        "macho": 0.015013240277767181,
+        "elytris": 0.014434648677706718,
+        "puntuación": 0.013125203549861908,
+        "esc": 0.012516159564256668,
+        "peu": 0.011968020349740982
+      }
+    },
+    "6": {
+      "color": "#a5761e",
+      "words": {
+        "selva": 0.01812492311000824,
+        "mis": 0.015357830561697483,
+        "ojos": 0.009915879927575588,
+        "humillada": 0.009224106557667255,
+        "soler": 0.008347860537469387,
+        "bartolomé": 0.008163386955857277,
+        "aquí": 0.007563850376754999,
+        "veo": 0.006733722519129515,
+        "creo": 0.006549249403178692,
+        "igual": 0.006272539962083101
+      }
+    },
+    "7": {
+      "color": "#666666",
+      "words": {
+        "thorace": 0.027890807017683983,
+        "doble": 0.027011150494217873,
+        "nova": 0.022716356441378593,
+        "ápice": 0.019766919314861298,
+        "hembra": 0.018680285662412643,
+        "densa": 0.01619654893875122,
+        "capite": 0.015213402919471264,
+        "anticis": 0.015109914354979992,
+        "gruesos": 0.013712812215089798,
+        "interno": 0.012263965792953968
+      }
+    },
+    "8": {
+      "color": "#1b9e77",
+      "words": {
+        "país": 0.011940945871174335,
+        "camino": 0.007164736278355122,
+        "bubis": 0.007122838404029608,
+        "blanco": 0.006997148972004652,
+        "aquí": 0.006829562596976757,
+        "ver": 0.006033527199178934,
+        "horas": 0.005991630721837282,
+        "moka": 0.005572665017098188,
+        "tarde": 0.005488871596753597,
+        "aquellos": 0.0052374922670423985
+      }
+    },
+    "9": {
+      "color": "#d76003",
+      "words": {
+        "zonas": 0.008093372918665409,
+        "conjunto": 0.007177185732871294,
+        "algunas": 0.006260998081415892,
+        "formas": 0.005497508216649294,
+        "tipo": 0.005306635983288288,
+        "fig": 0.00496306549757719,
+        "país": 0.004924891050904989,
+        "regiones": 0.004886716604232788,
+        "menor": 0.004734018351882696,
+        "posible": 0.004695843905210495
+      }
+    },
+    "10": {
+      "color": "#7570b3",
+      "words": {
+        "administración": 0.023483065888285637,
+        "financiera": 0.016036245971918106,
+        "colonias": 0.008909229189157486,
+        "presupuesto": 0.008543740957975388,
+        "gestión": 0.007858450524508953,
+        "derecho": 0.007630020845681429,
+        "servicios": 0.00744727673009038,
+        "actividad": 0.006944730877876282,
+        "economía": 0.0068990448489785194,
+        "gastos": 0.006807672791182995
+      }
+    },
+    "11": {
+      "color": "#e62a8a",
+      "words": {
+        "metros": 0.012665152549743652,
+        "pico": 0.01237289048731327,
+        "flores": 0.011544816195964813,
+        "emilio": 0.008622201159596443,
+        "plantas": 0.007794127333909273,
+        "aquí": 0.007794127333909273,
+        "fig": 0.007404445204883814,
+        "altura": 0.006819922477006912,
+        "hojas": 0.006771212909370661,
+        "centímetros": 0.006527660880237818
+      }
+    },
+    "12": {
+      "color": "#67a61e",
+      "words": {
+        "cial": 0.020002558827400208,
+        "ofi": 0.019467391073703766,
+        "letín": 0.018664639443159103,
+        "ord": 0.01766120083630085,
+        "funcionarios": 0.013981923460960388,
+        "braceros": 0.01150677353143692,
+        "reglamento": 0.01137298159301281,
+        "circ": 0.008830934762954712,
+        "terrenos": 0.008697142824530602,
+        "cacao": 0.00842955894768238
+      }
+    },
+    "13": {
+      "color": "#e5ab02",
+      "words": {
+        "grupo": 0.017453357577323914,
+        "presencia": 0.015104018151760101,
+        "moreno": 0.01409715786576271,
+        "don": 0.01297842524945736,
+        "campo": 0.012866552919149399,
+        "obstante": 0.01264280453324318,
+        "benito": 0.008839111775159836,
+        "kilómetros": 0.008615364320576191,
+        "golfo": 0.00827974732965231,
+        "figura": 0.00816787127405405
+      }
+    },
+    "14": {
+      "color": "#a5761e",
+      "words": {
+        "raíz": 0.02132479101419449,
+        "fam": 0.016701510176062584,
+        "sufijo": 0.01652231253683567,
+        "primitivamente": 0.01293837558478117,
+        "cierto": 0.012436623685061932,
+        "pesca": 0.012364945374429226,
+        "idem": 0.012006551027297974,
+        "eufónico": 0.010752173140645027,
+        "arroyo": 0.010608815588057041,
+        "fuerte": 0.010572976432740688
+      }
+    },
+    "15": {
+      "color": "#666666",
+      "words": {
+        "var": 0.01968441903591156,
+        "hojas": 0.01894795149564743,
+        "pau": 0.018278436735272408,
+        "vic": 0.0182114839553833,
+        "sierra": 0.014060490764677525,
+        "helianthemum": 0.012989265844225883,
+        "sépalos": 0.011449380777776241,
+        "willk": 0.00890522263944149,
+        "flores": 0.008436562493443489,
+        "pelos": 0.007365337572991848
+      }
+    },
+    "16": {
+      "color": "#1b9e77",
+      "words": {
+        "tibias": 0.025243233889341354,
+        "anteriores": 0.021341651678085327,
+        "artejo": 0.01969640702009201,
+        "largos": 0.018004154786467552,
+        "transverso": 0.01523074135184288,
+        "long": 0.01485468540340662,
+        "fuerte": 0.01433760765939951,
+        "disco": 0.013585495762526989,
+        "élitros": 0.013585495762526989,
+        "and": 0.012927398085594177
+      }
+    },
+    "17": {
+      "color": "#d76003",
+      "words": {
+        "pág": 0.027282951399683952,
+        "constituye": 0.021169209852814674,
+        "reglamento": 0.014787993393838406,
+        "caja": 0.008941728621721268,
+        "mano": 0.00833035446703434,
+        "pérdida": 0.007757191080600023,
+        "actos": 0.007375082466751337,
+        "laboral": 0.006954762618988752,
+        "existe": 0.006916551850736141,
+        "responsabilidad": 0.0066490755416452885
+      }
+    },
+    "18": {
+      "color": "#7570b3",
+      "words": {
+        "explotación": 0.015130138956010342,
+        "árboles": 0.0096027422696352,
+        "forestal": 0.009562396444380283,
+        "metros": 0.009360666386783123,
+        "okumen": 0.009158937260508537,
+        "tener": 0.006818871013820171,
+        "cuenta": 0.006334719713777304,
+        "ferrocarril": 0.006173335947096348,
+        "terreno": 0.006011951714754105,
+        "capdevielle": 0.006011951714754105
+      }
+    },
+    "19": {
+      "color": "#e62a8a",
+      "words": {
+        "cota": 0.01643139123916626,
+        "humedad": 0.01622549071907997,
+        "características": 0.012395711615681648,
+        "calidad": 0.012107448652386665,
+        "sección": 0.011942727491259575,
+        "flexión": 0.011407381854951382,
+        "radios": 0.010377872735261917,
+        "maderas": 0.008071769960224628,
+        "diámetro": 0.008030589669942856,
+        "resistente": 0.0075776055455207825
+      }
+    },
+    "20": {
+      "color": "#67a61e",
+      "words": {
+        "frecuencias": 0.02291320636868477,
+        "muestras": 0.021375510841608047,
+        "bubi": 0.016608653590083122,
+        "pons": 0.015532265417277813,
+        "cummins": 0.014609647914767265,
+        "diferencias": 0.014148339629173279,
+        "combe": 0.014148339629173279,
+        "valores": 0.014148339629173279,
+        "pamue": 0.013994569890201092,
+        "library": 0.01245687436312437
+      }
+    },
+    "21": {
+      "color": "#e5ab02",
+      "words": {
+        "caza": 0.010760733857750893,
+        "especie": 0.007346379570662975,
+        "annobón": 0.006035819184035063,
+        "pesca": 0.005173608660697937,
+        "algunas": 0.0045528169721364975,
+        "blanco": 0.004345886409282684,
+        "alguna": 0.0042769103311002254,
+        "ver": 0.004242421127855778,
+        "encima": 0.0041389563120901585,
+        "cola": 0.003966514021158218
+      }
+    },
+    "22": {
+      "color": "#a5761e",
+      "words": {
+        "muchas": 0.008135936222970486,
+        "selva": 0.00795208290219307,
+        "suelo": 0.00744648789986968,
+        "llega": 0.006021630950272083,
+        "mente": 0.005699888803064823,
+        "algunas": 0.005607964470982552,
+        "especies": 0.0055160364136099815,
+        "vegetación": 0.005378146655857563,
+        "hombre": 0.005378146655857563,
+        "tierra": 0.005194295663386583
+      }
+    },
+    "23": {
+      "color": "#666666",
+      "words": {
+        "normas": 0.018206043168902397,
+        "derechos": 0.016569575294852257,
+        "servicios": 0.011353335343301296,
+        "disposiciones": 0.008284958079457283,
+        "coloniales": 0.007125793490558863,
+        "igual": 0.006682583596557379,
+        "necesidad": 0.006341652944684029,
+        "régimen": 0.00630756001919508,
+        "obras": 0.006273467093706131,
+        "cambio": 0.005796163808554411
+      }
+    },
+    "24": {
+      "color": "#1b9e77",
+      "words": {
+        "esto": 0.00839920062571764,
+        "punto": 0.008175559341907501,
+        "cuatro": 0.0070573571138083935,
+        "ese": 0.006908262148499489,
+        "hoy": 0.006535527762025595,
+        "estar": 0.005889456253498793,
+        "aun": 0.004920344799757004,
+        "unas": 0.004796099849045277,
+        "mejor": 0.004448214080184698,
+        "línea": 0.00439851637929678
+      }
+    },
+    "25": {
+      "color": "#d76003",
+      "words": {
+        "gobernador": 0.014985977672040462,
+        "cabo": 0.013162978924810886,
+        "islas": 0.0110618956387043,
+        "geografía": 0.008528236299753189,
+        "histórica": 0.0071687111631035805,
+        "misioneros": 0.0067979320883750916,
+        "cap": 0.006705237086862326,
+        "obra": 0.0066434405744075775,
+        "junio": 0.006581644061952829,
+        "diciembre": 0.006272661034017801
+      }
+    },
+    "26": {
+      "color": "#7570b3",
+      "words": {
+        "orden": 0.009865869767963886,
+        "cuales": 0.007416788022965193,
+        "falta": 0.005152543541043997,
+        "abril": 0.005060125142335892,
+        "nueva": 0.005037020891904831,
+        "segundo": 0.004713557194918394,
+        "fueron": 0.004644243512302637,
+        "siguiente": 0.00457492982968688,
+        "diciembre": 0.004482511896640062,
+        "pesetas": 0.004390093497931957
+      }
+    },
+    "27": {
+      "color": "#e62a8a",
+      "words": {
+        "linguistique": 0.018303949385881424,
+        "cette": 0.016678323969244957,
+        "ces": 0.016437489539384842,
+        "comme": 0.015534363687038422,
+        "dune": 0.015353739261627197,
+        "mais": 0.014209779910743237,
+        "deux": 0.014149571768939495,
+        "avec": 0.012343320064246655,
+        "être": 0.011379986070096493,
+        "politique": 0.011319777928292751
+      }
+    },
+    "28": {
+      "color": "#67a61e",
+      "words": {
+        "qui": 0.0461103729903698,
+        "est": 0.04246422275900841,
+        "discours": 0.029169786721467972,
+        "pas": 0.027599135413765907,
+        "nous": 0.025187065824866295,
+        "aux": 0.014192511327564716,
+        "cest": 0.01307061780244112,
+        "sont": 0.012790144421160221,
+        "dun": 0.012509671039879322,
+        "même": 0.011556061916053295
+      }
+    },
+    "29": {
+      "color": "#e5ab02",
+      "words": {
+        "tortuga": 0.01047163363546133,
+        "casa": 0.008844003081321716,
+        "tigre": 0.008681240491569042,
+        "quien": 0.00835571438074112,
+        "mujer": 0.0077589163556694984,
+        "hoja": 0.007379135582596064,
+        "mas": 0.006239793729037046,
+        "pueblo": 0.005914267618209124,
+        "hombre": 0.005805759225040674,
+        "perro": 0.0056429957039654255
+      }
+    },
+    "30": {
+      "color": "#a5761e",
+      "words": {
+        "ambos": 0.00940624624490738,
+        "nuestro": 0.008676472119987011,
+        "nuestros": 0.006703379563987255,
+        "mediante": 0.006189832463860512,
+        "sentido": 0.006081720348447561,
+        "nuestras": 0.005838463082909584,
+        "muchos": 0.0052978890016674995,
+        "importante": 0.005162745714187622,
+        "ellas": 0.005135716870427132,
+        "nes": 0.004946515895426273
+      }
+    },
+    "31": {
+      "color": "#666666",
+      "words": {
+        "alumnos": 0.027407541871070862,
+        "escolar": 0.021178625524044037,
+        "cultural": 0.019434528425335884,
+        "heriberto": 0.014389107003808022,
+        "ramón": 0.014108805917203426,
+        "álvarez": 0.013703926466405392,
+        "garcía": 0.013672782108187675,
+        "historia": 0.011523805558681488,
+        "cursos": 0.010402601212263107,
+        "misiones": 0.00921910721808672
+      }
+    },
+    "32": {
+      "color": "#1b9e77",
+      "words": {
+        "expedición": 0.012124837376177311,
+        "tratado": 0.009075392037630081,
+        "josé": 0.00892901886254549,
+        "rey": 0.007367703132331371,
+        "viaje": 0.006879792083054781,
+        "santo": 0.006343089509755373,
+        "real": 0.006147925276309252,
+        "febrero": 0.005977156106382608,
+        "portugal": 0.005928365048021078,
+        "don": 0.005806387402117252
+      }
+    },
+    "33": {
+      "color": "#d76003",
+      "words": {
+        "fot": 0.019429480656981468,
+        "cuarzo": 0.015210588462650776,
+        "magma": 0.010621617548167706,
+        "proporción": 0.009659414179623127,
+        "serie": 0.009252328425645828,
+        "diabasas": 0.008512170985341072,
+        "composición": 0.008401148021221161,
+        "fúster": 0.008290124125778675,
+        "cristales": 0.008179101161658764,
+        "basaltos": 0.007883038371801376
+      }
+    },
+    "34": {
+      "color": "#7570b3",
+      "words": {
+        "meridional": 0.02244563400745392,
+        "nigeria": 0.018865402787923813,
+        "pámue": 0.018417874351143837,
+        "congo": 0.016386782750487328,
+        "francés": 0.013116380199790001,
+        "gabón": 0.01191149465739727,
+        "angola": 0.011877069249749184,
+        "leona": 0.010775459930300713,
+        "tropical": 0.010362356901168823,
+        "sierra": 0.009673850610852242
+      }
+    },
+    "35": {
+      "color": "#e62a8a",
+      "words": {
+        "padre": 0.014298615045845509,
+        "estaba": 0.010453028604388237,
+        "riebetta": 0.009085134603083134,
+        "habían": 0.008981897495687008,
+        "tenía": 0.007330101914703846,
+        "blancos": 0.006891343742609024,
+        "allí": 0.006607441231608391,
+        "joaquín": 0.006117064505815506,
+        "hombres": 0.005162120796740055,
+        "hijo": 0.004929836373776197
+      }
+    },
+    "36": {
+      "color": "#67a61e",
+      "words": {
+        "accidente": 0.0179299246519804,
+        "patrono": 0.012957424856722355,
+        "indemnización": 0.012120706960558891,
+        "concepto": 0.010566800832748413,
+        "manual": 0.008749925531446934,
+        "muerte": 0.008200081996619701,
+        "enero": 0.008032738231122494,
+        "marzo": 0.008008832111954689,
+        "obreros": 0.007841488346457481,
+        "lesión": 0.007841488346457481
+      }
+    },
+    "37": {
+      "color": "#e5ab02",
+      "words": {
+        "olivier": 0.010658090934157372,
+        "sumario": 0.01009418722242117,
+        "cuadro": 0.008740813471376896,
+        "páginas": 0.007302854675799608,
+        "marruecos": 0.007077292539179325,
+        "fang": 0.006879925727844238,
+        "valores": 0.006316020619124174,
+        "bujeba": 0.0062596299685537815,
+        "tomo": 0.006146849133074284,
+        "fig": 0.006034068297594786
+      }
+    },
+    "38": {
+      "color": "#a5761e",
+      "words": {
+        "bubis": 0.00713694840669632,
+        "hombre": 0.006173235364258289,
+        "jefe": 0.005235567688941956,
+        "esto": 0.00515742925927043,
+        "allí": 0.0048188273794949055,
+        "negro": 0.004714642651379108,
+        "eran": 0.004636503290385008,
+        "manuel": 0.004402086604386568,
+        "muni": 0.004349994007498026,
+        "país": 0.004115576855838299
+      }
+    },
+    "39": {
+      "color": "#666666",
+      "words": {
+        "lluvias": 0.015524004586040974,
+        "temperatura": 0.012328073382377625,
+        "meses": 0.01104970183223486,
+        "estaciones": 0.010410514660179615,
+        "clima": 0.009953954257071018,
+        "estación": 0.009771328419446945,
+        "golfo": 0.009314767085015774,
+        "seca": 0.009314767085015774,
+        "aire": 0.008949518203735352,
+        "julio": 0.008401644416153431
+      }
+    }
+  },
+
